@@ -22,9 +22,9 @@ He directs of [Syriaca.org](http://syriaca.org),
   
   daniel.schwartz@tamu.edu
   
-  Center of Digital Humanities Research
-  Texas A&M University 4213
-  College Station, TX 77843-4213
+  Center of Digital Humanities Research  
+  Texas A&M University 4213  
+  College Station, TX 77843-4213  
   
 
 
