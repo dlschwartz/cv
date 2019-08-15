@@ -11,12 +11,12 @@ He directs of [Syriaca.org](http://syriaca.org),
   and to preserving Syriac cultural heritage. He is the editor of Syriaca.org’s SPEAR: 
   Syriac Persons, Events, and Relations, an online prosopographical research tool, and the
   co-editor of the Syriac Taxonomy, a domain ontology for Syriac Studies. He is the author of 
-  _[Paideia and Cult: Christian Initiation in Theodore of Mopsuestia]
-  (https://chs.harvard.edu/CHS/article/display/5813.daniel-l-schwartz-paideia-and-cult-christian-initiation-in-theodore-of-mopsuestia)_ 
+  _[Paideia and Cult: Christian Initiation in Theodore of Mopsuestia](https://chs.harvard.edu/CHS/article/display/5813.daniel-l-schwartz-paideia-and-cult-christian-initiation-in-theodore-of-mopsuestia)_ 
   and the editor, with Neil McLynn and Arietta Papaconstantinou, of 
   _Conversion in Late Antiquity: Christianity, Islam, and Beyond_.
   
-  ### Contact Information
+
+### Contact Information
   
   daniel.schwartz@tamu.edu
   
