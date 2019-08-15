@@ -19,13 +19,13 @@ permalink: /teaching/
 
 ## Graduate Advising 
 #### Ph.D. Thesis Committee Member:
-Staci Willis, Anthropology, 2016
-Catherine Riley, Communication, 2015
+Staci Willis, Anthropology, 2016  
+Catherine Riley, Communication, 2015  
 #### M.A. Thesis Committee Member: 
-Jeff Rutherford, History, 2015
-Nathan Cartagena, Philosophy, 2013
-Meko Kofahl, Anthropology, 2013
-Courtney Higgins, Anthropology, 2012
+Jeff Rutherford, History, 2015  
+Nathan Cartagena, Philosophy, 2013  
+Meko Kofahl, Anthropology, 2013  
+Courtney Higgins, Anthropology, 2012  
 
 
 
