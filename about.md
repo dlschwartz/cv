@@ -17,6 +17,9 @@ He directs of [Syriaca.org](http://syriaca.org),
   _Conversion in Late Antiquity: Christianity, Islam, and Beyond_.
   
   ### Contact Information
+  
+  daniel.schwartz@tamu.edu
+  
   Center of Digital Humanities Research
   Texas A&M University 4213
   College Station, TX 77843-4213
