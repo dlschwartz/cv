@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+![profile picture](/cv/images/headshot2019.jpg)
+
 Daniel L. Schwartz is Associate Professor of History and Associate Director of the
 [Center of Digital Humanities Research](http://codhr.dh.tamu.edu/) at Texas A&M University. 
 He directs of [Syriaca.org](http://syriaca.org), 
