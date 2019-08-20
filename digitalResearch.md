@@ -17,6 +17,7 @@ Associate Editor responsible for creating new person records, project documentat
 #### SPEAR: Syriac Persons, Events, and Relations (forthcoming)  
 Editor responsible for adapting the factoid prosopography model to TEI XML, schema customization, training contributing researchers, and editing and data cleaning.
 
+
 #### The Syriac Taxonomy (forthcoming)  
 Co-editor along with Sergey Minov responsible for adapting the keyword list of the [Comprehensive Bibliography of Syriac Christianity](http://www.csc.org.il/db/browse.aspx?db=SB&sT=keywords), 
 TEI XML encoding, metadata curation, and linking to external taxonomies/ontologies. 
