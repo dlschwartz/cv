@@ -5,10 +5,21 @@ permalink: /digitalResearch/
 ---
 
 #### [Gorgias Encyclopedic Dictionary of the Syriac Heritage: Electronic Edition (eGEDSH)](https://gedsh.bethmardutho.org/)  
-#### [The Syriac Biographical Dictionary (SBD)](http://syriaca.org/persons)  
-#### SPEAR: Syriac Persons, Events, and Relations (forthcoming)  
-#### The Syriac Taxonomy (forthcoming)  
+Lead Technical Editor with primary responsibility for the conversion of the print edition into electronic format, 
+customizing the TEI XML schema as a data model for the encyclopedia, integrating linked open data into the electronic version, 
+TEI XML encoding of the front and back matter, and supervising the overall design of the user interface and database for the electronic edition.  
+  
 
+#### [The Syriac Biographical Dictionary (SBD)](http://syriaca.org/persons)  
+Associate Editor responsible for creating new person records, project documentation, TEI XML schema customization.  
+  
+  
+#### SPEAR: Syriac Persons, Events, and Relations (forthcoming)  
+Editor responsible for adapting the factoid prosopography model to TEI XML, schema customization, training contributing researchers, and editing and data cleaning.
+
+#### The Syriac Taxonomy (forthcoming)  
+Co-editor along with Sergey Minov responsible for adapting the keyword list of the [Comprehensive Bibliography of Syriac Christianity](http://www.csc.org.il/db/browse.aspx?db=SB&sT=keywords), 
+TEI XML encoding, metadata curation, and linking to external taxonomies/ontologies. 
 
 
 [jekyll-organization]: https://github.com/jekyll

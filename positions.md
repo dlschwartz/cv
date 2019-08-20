@@ -13,7 +13,7 @@ permalink: /positions/
  - 2009-2010, Andrew W. Mellon Post-doctoral Research Fellow  
 
 ## Westfälishe Wilhelms-Universität Münster
- - 2008-2009, Research Fellow  
+ - 2008-2009, Wissenschaftlicher Mitarbeiter, Exzellenzcluster „Religion und Politik“  
 
 ## Bryn Mawr College
  - 2007-2008, Instructor of Medieval History  
