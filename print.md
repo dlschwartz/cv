@@ -42,7 +42,7 @@ edited by I. K. Lapshina and O. V. Zakharova, 19–23. Vladimir: Vladimir State 
 ed. Paul T. Keyser and Georgia L. Irby-Massie (London: Routledge, 2008).
 
 
-## Miscellaneous Publications
+## Scholarly Blogs
 * “In the Service of Clio: Blog CXXVI (126): Eight Questions: Ancient History,” In the Service of Clio (blog), July 27, 2012, 
 [http://sarantakes.blogspot.com/2012/07/blog-cxxvi-126-antiquity.html](http://sarantakes.blogspot.com/2012/07/blog-cxxvi-126-antiquity.html).
 
