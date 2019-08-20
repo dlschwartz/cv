@@ -22,7 +22,7 @@ He directs of [Syriaca.org](http://syriaca.org),
 
 ### Contact Information
   
-  daniel.schwartz@tamu.edu
+  daniel.schwartz[at]tamu[dot]edu
   
   Center of Digital Humanities Research  
   Texas A&M University 4213  
