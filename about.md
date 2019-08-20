@@ -6,6 +6,7 @@ permalink: /about/
 
 ![profile picture](/cv/images/headshot2019.jpg)
 
+## Short Bio
 Daniel L. Schwartz is Associate Professor of History and Associate Director of the
 [Center of Digital Humanities Research](http://codhr.dh.tamu.edu/) at Texas A&M University. 
 He directs of [Syriaca.org](http://syriaca.org), 
@@ -18,14 +19,12 @@ He directs of [Syriaca.org](http://syriaca.org),
   _Conversion in Late Antiquity: Christianity, Islam, and Beyond_.
   
 
-
-
-#### Scholarly IDs
+## Scholarly IDs
 
 ORCID: [0000-0001-6986-9650](https://orcid.org/0000-0001-6986-9650)  
 [Academia.edu](https://tamu.academia.edu/DanielSchwartz)
 
-#### Mail
+## Mail
 
 Center of Digital Humanities Research  
 TAMU 4213  
@@ -35,7 +34,9 @@ College Station, TX 77843-4213
 Department of History  
 TAMU 4236  
 College Station, TX 77483-4236  
-  
+
+---
+#### _[PDF of this Curriculum Vitae](/cv/pdfs/Schwartz_CV_T&P.pdf)_
 
   
 
