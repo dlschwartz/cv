@@ -20,13 +20,23 @@ He directs of [Syriaca.org](http://syriaca.org),
 
 
 
-### Contact Information
+#### Scholarly IDs
+
+ORCID: [0000-0001-6986-9650](https://orcid.org/0000-0001-6986-9650)  
+[Academia.edu](https://tamu.academia.edu/DanielSchwartz)
+
+#### Mail
+
+Center of Digital Humanities Research  
+TAMU 4213  
+College Station, TX 77843-4213  
+
+
+Department of History  
+TAMU 4236  
+College Station, TX 77483-4236  
   
-  daniel.schwartz[at]tamu[dot]edu
-  
-  Center of Digital Humanities Research  
-  Texas A&M University 4213  
-  College Station, TX 77843-4213  
+
   
 
 
