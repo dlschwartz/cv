@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+order: 1
 ---
 
 ![profile picture](/cv/images/headshot2019.jpg)

@@ -2,6 +2,7 @@
 layout: page
 title: Academic Presentations
 permalink: /presentations/
+order: 7
 ---
 
 ## Papers Presented at Professional Meetings

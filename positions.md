@@ -2,6 +2,7 @@
 layout: page
 title: Academic Positions
 permalink: /positions/
+order: 2
 ---
 
 ## Texas A&M University

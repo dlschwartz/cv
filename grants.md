@@ -2,6 +2,7 @@
 layout: page
 title: Grants
 permalink: /grants/
+order: 6
 ---
 
 ## Nationally Competitive Grants and Fellowships
