@@ -2,6 +2,7 @@
 layout: page
 title: Service
 permalink: /service/
+order: 9
 ---
 
 ## Service to the Department of History, Texas A&M

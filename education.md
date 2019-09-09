@@ -2,6 +2,7 @@
 layout: page
 title: Education
 permalink: /education/
+order: 3
 ---
 
 #### Ph.D., History, 2009, Princeton University  

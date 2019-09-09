@@ -2,6 +2,7 @@
 layout: page
 title: Print Publications
 permalink: /print/
+order: 4
 ---
 
 ## Monographs

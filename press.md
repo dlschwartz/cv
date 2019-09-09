@@ -2,6 +2,7 @@
 layout: page
 title: Media Interviews
 permalink: /press/
+order: 10
 ---
 
 * Shireen Korkzan, “Campus Notebook: Preserving Syriac heritage.” _National Catholic

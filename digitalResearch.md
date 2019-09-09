@@ -2,6 +2,7 @@
 layout: page
 title: Digital Research
 permalink: /digitalResearch/
+order: 5
 ---
 
 #### [Gorgias Encyclopedic Dictionary of the Syriac Heritage: Electronic Edition (eGEDSH)](https://gedsh.bethmardutho.org/)  
