@@ -15,7 +15,7 @@ order: 9
 
 
 ## Service to the College and University, Texas A&M
- - Associate Director, [Center of Digital Humanities Research](http://codhr.dh.tamu.edu/), 2015-present
+ - Associate Director, [Center of Digital Humanities Research](http://codhr.dh.tamu.edu/){:target="_blank"}, 2015-present
  - Co-Convener, Religion and Culture Working Group, Glasscock Center, 2014-2015
  - Co-Convener, Religion and Culture Working Group, Glasscock Center, 2012-2013
  - Co-Convener, Religion and Culture Working Group, Glasscock Center, 2011-2012
@@ -23,9 +23,9 @@ order: 9
 
 
 ## Service to the Profession
- - Moderator, [BodoArXiv](https://bodoarxiv.org/): Open Repository of Medieval Studies, 2019-present 
- - Editorial Board, [The Digital Syriac Corpus](https://syriaccorpus.org/), 2017-present 
- - Director, [Syriaca.org](http://syriaca.org/), 2015-present
+ - Moderator, [BodoArXiv](https://bodoarxiv.org/){:target="_blank"}: Open Repository of Medieval Studies, 2019-present 
+ - Editorial Board, [The Digital Syriac Corpus](https://syriaccorpus.org/){:target="_blank"}, 2017-present 
+ - Director, [Syriaca.org](http://syriaca.org/){:target="_blank"}, 2015-present
  - Advisory Committee for the Syriac Reference Portal Project, 2010-2012
 
 

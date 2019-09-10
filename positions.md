@@ -7,7 +7,7 @@ order: 2
 
 ## Texas A&M University
  - 2016-present, Associate Professor, Department of History  
- - 2015-present, Associate Director, [Center of Digital Humanities Research](http://codhr.dh.tamu.edu/)
+ - 2015-present, Associate Director, [Center of Digital Humanities Research](http://codhr.dh.tamu.edu/){:target="_blank"}
  - 2010-2016, Assistant Professor, Department of History  
 
 ## University of Oxford
