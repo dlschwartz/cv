@@ -14,7 +14,7 @@ order: 8
  - History of Christianity
  - Christian Monasticism
  - Medieval Mediterranean World
- - Digital Humanities
+ - Digital Humanities ({Fall 2019 graduate syllabus](https://dlschwartz.github.io/2019cHIST630){:target="_blank"})
  - World History
 
 
