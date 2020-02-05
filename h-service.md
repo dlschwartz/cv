@@ -23,7 +23,7 @@ order: 9
 
 
 ## Service to the Profession
- - Moderator, [BodoArXiv](https://bodoarxiv.org/){:target="_blank"}: Open Repository of Medieval Studies, 2019-present 
+ - Moderator, [BodoArXiv](https://bodoarxiv.org/){:target="_blank"}: Open Repository of Medieval Studies, 2019 
  - Editorial Board, [The Digital Syriac Corpus](https://syriaccorpus.org/){:target="_blank"}, 2017-present 
  - Director, [Syriaca.org](http://syriaca.org/){:target="_blank"}, 2015-present
  - Advisory Committee for the Syriac Reference Portal Project, 2010-2012

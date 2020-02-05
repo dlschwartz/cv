@@ -6,7 +6,7 @@ order: 5
 ---
 
 #### SPEAR: Syriac Persons, Events, and Relations (forthcoming)  
-Editor responsible for adapting the factoid prosopography model to TEI XML, schema customization, training 
+General Editor responsible for adapting the factoid prosopography model to TEI XML, schema customization, training 
 contributing researchers, and editing and data cleaning. I expect to release a beta version of the website for 
 this project by the end of October.
 
@@ -15,7 +15,16 @@ this project by the end of October.
 Co-editor along with Sergey Minov responsible for adapting the keyword list of 
 the [Comprehensive Bibliography of Syriac Christianity](http://www.csc.org.il/db/browse.aspx?db=SB&sT=keywords){:target="_blank"}, 
 TEI XML encoding, metadata curation, and linking to external taxonomies/ontologies. I expect to release a beta 
-version of this project by the end of 2019. 
+version of this project in 2020. 
+
+
+#### The Beth Qatraye Gazetteer (forthcoming)
+Lead Technical Editor responsible for developing the customized TEI schema used by the Beth Qatraye Gazetteer.
+
+
+#### [The Syriac Gazetteer](http://syriaca.org/geo){:target="_blank"}
+Lead Technical Editor responsible for developing the customized TEI schema used by the Syriac Gazetteer; data cleaning; and 
+project documentation.
 
 
 #### [Gorgias Encyclopedic Dictionary of the Syriac Heritage: Electronic Edition (eGEDSH)](https://gedsh.bethmardutho.org/){:target="_blank"}  
