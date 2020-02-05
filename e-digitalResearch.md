@@ -8,7 +8,7 @@ order: 5
 #### SPEAR: Syriac Persons, Events, and Relations (forthcoming)  
 General Editor responsible for adapting the factoid prosopography model to TEI XML, schema customization, training 
 contributing researchers, and editing and data cleaning. I expect to release a beta version of the website for 
-this project by the end of October.
+this project in 2020.
 
 
 #### The Syriac Taxonomy (forthcoming)  
