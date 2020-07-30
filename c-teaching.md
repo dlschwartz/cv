@@ -23,6 +23,7 @@ order: 8
 ## Graduate Advising
 
 #### Ph.D. Thesis Committee Member:
+ - David Grady Ruff, Anthropology, 2020
  - Staci Willis, Anthropology, 2016  
  - Catherine Riley, Communication, 2015
 
