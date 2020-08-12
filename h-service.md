@@ -27,6 +27,16 @@ order: 9
  - Editorial Board, [The Digital Syriac Corpus](https://syriaccorpus.org/){:target="_blank"}, 2017-present 
  - Director, [Syriaca.org](http://syriaca.org/){:target="_blank"}, 2015-present
  - Advisory Committee for the Syriac Reference Portal Project, 2010-2012
+ 
+
+
+## Peer Review
+ - De Gruyter
+ - Digital Scholarship in the Humanities
+ - Hugoye: Journal of Syriac Studies
+ - Journal of Early Christian Studies
+ - Journal of Near Eastern Studies
+ 
 
 
 
