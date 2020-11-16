@@ -17,6 +17,7 @@ order: 4
 
 
 ## Peer-Reviewed Journal Articles
+ - "Modeling a Born-Digital Factoid Prosopography using the TEI and Linked Data." (Co-written with Nathan P. Gibson and Katayoun Torabi). Under Review.
  - "From Manuscript Catalogues to a Handbook of Syriac Literature: Modeling an Infrastructure for Syriaca.org." (
  Co-written with Nathan P. Gibson and David A. Michelson.) _Journal of Data Mining and Digital Humanities_, 
  Special Issue on Computer-Aided Processing of Intertextuality in Ancient Languages (May 2017), <http://jdmdh.episciences.org/1395>{:target="_blank"}.
