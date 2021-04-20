@@ -56,7 +56,12 @@ order: 4
  The Greek Tradition and Its Many Heirs_, ed. Paul T. Keyser and Georgia L. Irby-Massie (London: Routledge, 2008).
 
 ## Book Reviews
- - Review of Nathan Witkamp, _Tradition and Innovation: Baptismal Rite and Mystagogy in Theodore of Mopsuestia and Narsai of Nisibis_. 
+ 
+ - Review of Philip Michael Forness, -Preaching Christology in the Roman Near East: A Study of Jacob of Serugh_. 
+ Oxford Early Christian Studies. (Oxford: University of Oxford Press, 2018), _Church History_ 89, no. 4 (December 2020): 
+ 909–11. <https://doi.org/10.1017/S0009640721000159>{:target="_blank"}.
+
+- Review of Nathan Witkamp, _Tradition and Innovation: Baptismal Rite and Mystagogy in Theodore of Mopsuestia and Narsai of Nisibis_. 
  Vigiliae Christianae, Supplements 149. (Leiden: Brill, 2018), _Church History_ 88, no. 2 (June 2019): 
  482–84. <https://doi.org/10.1017/S0009640719001318>{:target="_blank"}.
 
