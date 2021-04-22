@@ -57,7 +57,7 @@ order: 4
 
 ## Book Reviews
  
- - Review of Philip Michael Forness, -Preaching Christology in the Roman Near East: A Study of Jacob of Serugh_. 
+ - Review of Philip Michael Forness, _Preaching Christology in the Roman Near East: A Study of Jacob of Serugh_. 
  Oxford Early Christian Studies. (Oxford: University of Oxford Press, 2018), _Church History_ 89, no. 4 (December 2020): 
  909–11. <https://doi.org/10.1017/S0009640721000159>{:target="_blank"}.
 
