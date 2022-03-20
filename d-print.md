@@ -17,7 +17,8 @@ order: 4
 
 
 ## Peer-Reviewed Journal Articles
- - "Modeling a Born-Digital Factoid Prosopography using the TEI and Linked Data." (Co-written with Nathan P. Gibson and Katayoun Torabi). _Journal of the Text Encoding Initiative_ (forthcoming), pre-print available at <https://doi.org/10.21423/schwartzmodelingprosopography>.
+ - "Modeling a Born-Digital Factoid Prosopography using the TEI and Linked Data." (Co-written with Nathan P. Gibson and Katayoun Torabi). 
+ _Journal of the Text Encoding Initiative_ (2022), <https://journals.openedition.org/jtei/3979>.
  
  - "From Manuscript Catalogues to a Handbook of Syriac Literature: Modeling an Infrastructure for Syriaca.org." (
  Co-written with Nathan P. Gibson and David A. Michelson.) _Journal of Data Mining and Digital Humanities_, 
