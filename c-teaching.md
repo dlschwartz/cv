@@ -10,7 +10,7 @@ order: 8
  - Byzantine Empire
  - Christian Monasticism
  - Digital Humanities 
-	- Syllabi:[2023](https://dlschwartz.github.io/2023aHIST630/){:target="_blank"} | [2019](https://dlschwartz.github.io/2019cHIST630){:target="_blank"}
+	- Syllabi:[2023](https://dlschwartz.github.io/2023aHIST630/){:target="_blank"}; [2019](https://dlschwartz.github.io/2019cHIST630){:target="_blank"}
 	- [DH Resources](https://dlschwartz.github.io/digital-history/){:target="_blank"}
  - History of Christianity
  - Late Antiquity
