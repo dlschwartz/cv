@@ -9,7 +9,9 @@ order: 8
 ## Teaching Fields
  - Byzantine Empire
  - Christian Monasticism
- - Digital Humanities ([Fall 2019 graduate syllabus](https://dlschwartz.github.io/2019cHIST630){:target="_blank"})
+ - Digital Humanities 
+	- Syllabi:[2023](https://dlschwartz.github.io/2023aHIST630/){:target="_blank"} | [2019](https://dlschwartz.github.io/2019cHIST630){:target="_blank"}
+	- [DH Resources](https://dlschwartz.github.io/digital-history/){:target="_blank"}
  - History of Christianity
  - Late Antiquity
  - Medieval Mediterranean World
