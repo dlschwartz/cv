@@ -68,9 +68,7 @@ order: 4
  Vigiliae Christianae, Supplements 149. (Leiden: Brill, 2018), _Church History_ 88, no. 2 (June 2019): 
  482–84. <https://doi.org/10.1017/S0009640719001318>{:target="_blank"}.
 
-## Scholarly Blogs
- - "In the Service of Clio: Blog CXXVI (126): Eight Questions: Ancient History," In the Service of Clio (blog), 
- July 27, 2012, <http://sarantakes.blogspot.com/2012/07/blog-cxxvi-126-antiquity.html>{:target="_blank"}.
+
 
 
 
