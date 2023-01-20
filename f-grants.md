@@ -13,11 +13,12 @@ New Access to Sources for the History of the Middle East,” PI: David A. Michel
 
 
 ## Competitive College and University Grants and Fellowships, Texas A&M University
+- $15,000 from the Arts and Humanities Fellowship Program, 2022-2025
 - $1,500 from the College of Liberal Arts for International Travel Support, 2019
 - $1,700 from the Southeastern Conference Visiting Faculty Travel Grant, 2019
 - $1,500 from the College of Liberal Arts for International Travel Support, 2016
 - $5,250 from the College of Liberal Arts Cluster Advancement and Success Award, “Controversies over Evaluating Digital Work: Implications for Career Development in Academia,” 2015 (with Laura Mandell)
-- $15,000 from the Arts and Humanities Fellowship, 2015-2018
+- $15,000 from the Arts and Humanities Fellowship Program, 2015-2018
 - $15,000 from the College of Liberal Arts Seed Grant Program, 2014
 - $1,700 from the Southeastern Conference Visiting Faculty Travel Grant, 2014
 - $1,250 from the Initiative for Digital Humanities, Media, and Culture, Digital Humanities Summer Institute Tuition Scholarship, 2013
