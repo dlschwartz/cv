@@ -31,6 +31,7 @@ order: 9
 
 
 ## Peer Review
+ - Advanced Research Consortium
  - De Gruyter
  - Digital Scholarship in the Humanities
  - Hugoye: Journal of Syriac Studies
