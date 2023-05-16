@@ -22,6 +22,8 @@ order: 7
 
 
 ## Invited Talks
+ - “Syriac Prosopography in the Digital Age,” Workshop on Late Antiquity, University of Texas, Austin, March 2023
+ - “Digital Resources for the Study of Late Antiquity,” Workshop on Late Antiquity, University of Texas, Austin, March 2023
  - “From Text to Data and Back Again: Modeling Syriac Heritage with TEI and Linked Data,” Cultural Heritage at Scale: Encoding Cultural Heritage at Scale, Vanderbilt University Libraries, Nashville, Tennessee, May 2019
  - “Liturgical _Ekphrasis_ in Theodore of Mopsuestia’s Catechetical Homilies,” Medieval and Renaissance Transformations of Antiquity, Villa Vergiliana, Cuma, Italy, September 2013
  - “Coercion, Persuasion, and Belief: Understanding the Christianization of the Roman Empire” Late Roman Seminar, University of Oxford, 4 March, 2010
