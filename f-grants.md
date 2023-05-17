@@ -23,7 +23,6 @@ New Access to Sources for the History of the Middle East,” PI: David A. Michel
 - $15,000 from the Arts and Humanities Fellowship Program, 2015-2018
 - $15,000 from the College of Liberal Arts Seed Grant Program, 2014
 - $1,700 from the Southeastern Conference Visiting Faculty Travel Grant, 2014
-- $1,250 from the Initiative for Digital Humanities, Media, and Culture, Digital Humanities Summer Institute Tuition Scholarship, 2013
 - $15,000 from the College of Liberal Arts Strategic Development Fund, “Classical Transformations at TAMU,” 2011 (with Federica Ciccolella, Craig Kallendorf, Justin Lake, Steve Oberhelman, and Ada Palmer)
 
 
