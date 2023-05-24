@@ -10,7 +10,8 @@ order: 4
  Washington, DC and Cambridge, MA: The Center for Hellenic Studies and Harvard University Press, 2013. 
  Full text freely available as an 
  [ebook](https://chs.harvard.edu/read/schwartz-daniel-l-paideia-and-cult-christian-initiation-in-theodore-of-mopsuestia/){:target="_blank"}
- or as a [webpage](https://chs.harvard.edu/chapter/acknowledgments-24/){:target="_blank"}. [A Russian translation of this monograph 
+ or as a [webpage](https://chs.harvard.edu/chapter/acknowledgments-24/){:target="_blank"}. [A 
+ [Russian translation](http://irhga.ru/2023-05-13-shvarc-daniyel-l-paydeyya-i-kult/){:target="_blank"} of this monograph 
  has also been produced. Translated by Z.A. Lurie. Introduction by V.K. Pichugina and Z.A. Lurie. Paideia Series. St. Petersburgh: Publishing
  House of the RKhG, 2023.]
  
