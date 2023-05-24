@@ -11,7 +11,7 @@ order: 4
  Full text freely available as an 
  [ebook](https://chs.harvard.edu/read/schwartz-daniel-l-paideia-and-cult-christian-initiation-in-theodore-of-mopsuestia/){:target="_blank"}
  or as a [webpage](https://chs.harvard.edu/chapter/acknowledgments-24/){:target="_blank"}. [A Russian translation of this monograph 
- has been produced. Translated by Z.A. Lurie. Introduction by V.K. Pichugina and Z.A. Lurie. Paideia Series. St. Petersburgh: Publishing
+ has also been produced. Translated by Z.A. Lurie. Introduction by V.K. Pichugina and Z.A. Lurie. Paideia Series. St. Petersburgh: Publishing
  House of the RKhG, 2023.]
  
 
