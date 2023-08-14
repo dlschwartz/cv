@@ -6,7 +6,8 @@ order: 2
 ---
 
 ## Texas A&M University
- - 2016-present, Associate Professor, Department of History  
+ - 2016-present, Associate Professor, Department of History
+ - 2023-present, Associate Department Head, Department of History
  - 2015-2023, Associate Director, [Center of Digital Humanities Research](http://codhr.dh.tamu.edu/){:target="_blank"}
  - 2010-2016, Assistant Professor, Department of History  
 

@@ -6,7 +6,8 @@ order: 9
 ---
 
 ## Service to the Department of History, Texas A&M
- - Executive Committee, June 2019-present
+ - Associate Department Head, September 2023-present
+ - Executive Committee, June 2019-2023
  - Graduate Student Committee, June 2012-May 2014
  - Graduate Placement Director, June 2012-May 2014
  - Executive Committee, June 2011-May 2013
@@ -15,7 +16,7 @@ order: 9
 
 
 ## Service to the College and University, Texas A&M
- - Associate Director, [Center of Digital Humanities Research](http://codhr.dh.tamu.edu/){:target="_blank"}, 2015-present
+ - Associate Director, [Center of Digital Humanities Research](http://codhr.dh.tamu.edu/){:target="_blank"}, 2015-2023
  - Co-Convener, Religion and Culture Working Group, Glasscock Center, 2014-2015
  - Co-Convener, Religion and Culture Working Group, Glasscock Center, 2012-2013
  - Co-Convener, Religion and Culture Working Group, Glasscock Center, 2011-2012
