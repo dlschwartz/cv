@@ -9,8 +9,7 @@ layout: home
 ![profile picture](/cv/images/headshot2019.jpg)
 
 ## Short Bio
-Daniel L. Schwartz is Associate Professor of History and Associate Director of the
-[Center of Digital Humanities Research](http://codhr.dh.tamu.edu/){:target="_blank"} at Texas A&M University. He co-directs (with David A. Michelson) 
+Daniel L. Schwartz is Associate Professor of History. He co-directs (with David A. Michelson) 
 [Syriaca.org](http://syriaca.org){:target="_blank"}, a linked-open data project dedicated to advancing scholarship 
 in the field of Syriac Studies and to preserving Syriac cultural heritage. He is the editor of 
 Syriaca.org’s SPEAR: Syriac Persons, Events, and Relations, an online prosopographical research tool, 
@@ -26,11 +25,6 @@ ORCID: [0000-0001-6986-9650](https://orcid.org/0000-0001-6986-9650){:target="_bl
 [Academia.edu](https://tamu.academia.edu/DanielSchwartz){:target="_blank"}
 
 ## Mail
-
-Center of Digital Humanities Research  
-TAMU 4213  
-College Station, TX 77843-4213  
-
 
 Department of History  
 TAMU 4236  
