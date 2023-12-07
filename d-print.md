@@ -70,7 +70,7 @@ order: 4
 
 - Review of Nathan Witkamp, _Tradition and Innovation: Baptismal Rite and Mystagogy in Theodore of Mopsuestia and Narsai of Nisibis_. 
  Vigiliae Christianae, Supplements 149. (Leiden: Brill, 2018), _Church History_ 88, no. 2 (June 2019): 
- 482–84. <https://doi.org/10.1017/S0009640719001318>{:target="_blank"}.
+ 482–84. <https://doi.org/10.1017/S0009640719001318>.
 
 
 

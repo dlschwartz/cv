@@ -9,20 +9,25 @@ layout: home
 ![profile picture](/cv/images/headshot2019.jpg)
 
 ## Short Bio
-Daniel L. Schwartz is Associate Professor of History. He co-directs (with David A. Michelson) 
-[Syriaca.org](http://syriaca.org){:target="_blank"}, a linked-open data project dedicated to advancing scholarship 
-in the field of Syriac Studies and to preserving Syriac cultural heritage. He is the editor of 
-Syriaca.org’s SPEAR: Syriac Persons, Events, and Relations, an online prosopographical research tool, 
-and the co-editor (with Sergey Minov) of the Syriac Taxonomy, a domain ontology for Syriac Studies. He is the author of 
-_[Paideia and Cult: Christian Initiation in Theodore of Mopsuestia](https://chs.harvard.edu/CHS/article/display/5813.daniel-l-schwartz-paideia-and-cult-christian-initiation-in-theodore-of-mopsuestia){:target="_blank"}_ 
-and the co-editor (with Neil McLynn and Arietta Papaconstantinou) of _Conversion in Late Antiquity: 
-Christianity, Islam, and Beyond_.
-  
+Daniel L. Schwartz is Associate Professor of History. His research lies at the intersection of Roman History, 
+History of Religion, Digital Humanities, and Cultural Heritage Informatics with a particular focus on the 
+literature and culture in the Syriac language. Syriac is a dialect of Aramaic that flourished in the Middle 
+East from the third to the ninth centuries C.E. and continues to be used by communities throughout the Middle 
+East and India today. Dr. Schwartz directs [Syriaca.org](http://syriaca.org), a linked-open data project 
+dedicated to advancing scholarship in the field of Syriac Studies and to preserving Syriac cultural 
+heritage. He is also the general editor of [SPEAR: Syriac Persons, Events, and Relations](http://spear-prosop.org), 
+an online prosopographical research tool; and the co-editor (with Sergey Minov) of the Syriac Taxonomy 
+(forthcoming), a domain ontology for Syriac Studies. He is the author of 
+_[Paideia and Cult: Christian Initiation in Theodore of Mopsuestia](https://chs.harvard.edu/CHS/article/display/5813.daniel-l-schwartz-paideia-and-cult-christian-initiation-in-theodore-of-mopsuestia)_ 
+and the co-editor (with Arietta Papaconstantinou and Neil McLynn) of _Conversion in Late Antiquity: Christianity, Islam, and Beyond_. 
+He has also published articles and book chapters on Digital History and religious conversion and religious violence in Late Antiquity.
+
+ 
 
 ## Scholarly IDs
 
-ORCID: [0000-0001-6986-9650](https://orcid.org/0000-0001-6986-9650){:target="_blank"}  
-[Academia.edu](https://tamu.academia.edu/DanielSchwartz){:target="_blank"}
+ORCID: [0000-0001-6986-9650](https://orcid.org/0000-0001-6986-9650)  
+[Academia.edu](https://tamu.academia.edu/DanielSchwartz)
 
 ## Mail
 
@@ -31,6 +36,6 @@ TAMU 4236
 College Station, TX 77483-4236  
 
 ---
-#### _[PDF of this Curriculum Vitae](/cv/pdfs/Schwartz_CV_T&P.pdf){:target="_blank"}_
+#### _[PDF of this Curriculum Vitae](/cv/pdfs/Schwartz_CV_T&P.pdf)_
 
   

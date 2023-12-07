@@ -5,37 +5,37 @@ permalink: /digitalResearch/
 order: 5
 ---
 
+#### The Syriac Taxonomy (in progress)  
+Co-editor along with Sergey Minov responsible for adapting the keyword list of 
+the [Comprehensive Bibliography of Syriac Christianity](http://www.csc.org.il/db/browse.aspx?db=SB&sT=keywords), 
+TEI XML encoding, metadata curation, and linking to external taxonomies/ontologies. I expect to release a beta 
+version of this project in 2024. 
+
+
+#### Syriac Manuscripts in the British Library: A New Digital Edition of Wright’s Catalogue (in progress)
+Lead Technical Editor responsible for TEI XML schema customiation.
+
+
 #### SPEAR: Syriac Persons, Events, and Relations (forthcoming)  
 General Editor responsible for adapting the factoid prosopography model to TEI XML, schema customization, training 
-contributing researchers, and editing and data cleaning. I expect to release a beta version of the website for 
-this project in 2020.
+contributing researchers, and editing and data cleaning. Beta version available at 
+https://spear-prosop.org/index.html(https://spear-prosop.org/index.html).
 
 
-#### The Syriac Taxonomy (forthcoming)  
-Co-editor along with Sergey Minov responsible for adapting the keyword list of 
-the [Comprehensive Bibliography of Syriac Christianity](http://www.csc.org.il/db/browse.aspx?db=SB&sT=keywords){:target="_blank"}, 
-TEI XML encoding, metadata curation, and linking to external taxonomies/ontologies. I expect to release a beta 
-version of this project in 2020. 
-
-
-#### The Beth Qatraye Gazetteer (forthcoming)
-Lead Technical Editor responsible for developing the customized TEI schema used by the Beth Qatraye Gazetteer.
-
-
-#### [The Syriac Gazetteer](http://syriaca.org/geo){:target="_blank"}
+#### [The Syriac Gazetteer](http://syriaca.org/geo)
 Lead Technical Editor responsible for developing the customized TEI schema used by the Syriac Gazetteer; data cleaning; and 
 project documentation.
 
 
-#### [Gorgias Encyclopedic Dictionary of the Syriac Heritage: Electronic Edition (eGEDSH)](https://gedsh.bethmardutho.org/){:target="_blank"}  
+#### [The Syriac Biographical Dictionary (SBD)](http://syriaca.org/persons)  
+Associate Editor and Lead Technical Editor responsible for creating new person records, project documentation, TEI XML schema customization.  
+  
+  
+#### [Gorgias Encyclopedic Dictionary of the Syriac Heritage: Electronic Edition (eGEDSH)](https://gedsh.bethmardutho.org/)  
 Lead Technical Editor with primary responsibility for the conversion of the print edition into electronic format, 
-customizing the TEI XML schema as a data model for the encyclopedia, integrating linked open data into the electronic version, 
-TEI XML encoding of the front and back matter, and supervising the overall design of the user interface and database for the electronic edition.  
+integrating linked open data into the electronic version, TEI XML encoding of the front and back matter, 
+and supervising the overall design of the user interface and database for the electronic edition.  
   
 
-#### [The Syriac Biographical Dictionary (SBD)](http://syriaca.org/persons){:target="_blank"}  
-Associate Editor responsible for creating new person records, project documentation, TEI XML schema customization.  
-  
-  
 
 [jekyll-organization]: https://github.com/jekyll
