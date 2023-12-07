@@ -16,10 +16,9 @@ version of this project in 2024.
 Lead Technical Editor responsible for TEI XML schema customiation.
 
 
-#### SPEAR: Syriac Persons, Events, and Relations (forthcoming)  
+#### SPEAR: Syriac Persons, Events, and Relations ([beta version](https://spear-prosop.org/index.html))  
 General Editor responsible for adapting the factoid prosopography model to TEI XML, schema customization, training 
-contributing researchers, and editing and data cleaning. Beta version available at 
-https://spear-prosop.org/index.html(https://spear-prosop.org/index.html).
+contributing researchers, and editing and data cleaning. 
 
 
 #### [The Syriac Gazetteer](http://syriaca.org/geo)
