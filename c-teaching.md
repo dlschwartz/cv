@@ -21,7 +21,7 @@ order: 8
 
 
 
-
+~~
 ## Graduate Advising
 
 #### Ph.D. Thesis Committee Member:
@@ -34,7 +34,7 @@ order: 8
  - Nathan Cartagena, Philosophy, 2013  
  - Meko Kofahl, Anthropology, 2013  
  - Courtney Higgins, Anthropology, 2012  
-
+~~
 
 
 [jekyll-organization]: https://github.com/jekyll
