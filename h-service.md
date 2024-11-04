@@ -38,6 +38,7 @@ order: 9
  - Hugoye: Journal of Syriac Studies
  - Journal of Early Christian Studies
  - Journal of Near Eastern Studies
+ - Viator: Medieval and Renaissance Studies
  
 
 
