@@ -27,7 +27,7 @@ project documentation.
 
 
 #### [The Syriac Biographical Dictionary (SBD)](http://syriaca.org/persons)  
-Associate Editor and Lead Technical Editor responsible for creating new person records, project documentation, TEI XML schema customization.  
+Co-General Editor and Lead Technical Editor responsible for creating new person records, project documentation, TEI XML schema customization.  
   
   
 #### [Gorgias Encyclopedic Dictionary of the Syriac Heritage: Electronic Edition (eGEDSH)](https://gedsh.bethmardutho.org/)  
