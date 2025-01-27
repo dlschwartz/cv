@@ -35,6 +35,7 @@ order: 9
  - Advanced Research Consortium
  - De Gruyter
  - Digital Scholarship in the Humanities
+ - Digital Studies/Le champ numérique
  - Hugoye: Journal of Syriac Studies
  - Journal of Early Christian Studies
  - Journal of Near Eastern Studies
