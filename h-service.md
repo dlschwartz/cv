@@ -6,12 +6,12 @@ order: 9
 ---
 
 ## Service to the Department of History, Texas A&M
- - Associate Department Head, September 2023-present
- - Executive Committee, June 2019-2023
- - Graduate Student Committee, June 2012-May 2014
- - Graduate Placement Director, June 2012-May 2014
- - Executive Committee, June 2011-May 2013
- - Diversity Committee, June 2011-May 2012
+ - Associate Department Head, 2023-present
+ - Executive Committee, 2019-2023
+ - Graduate Student Committee, 2012-2014
+ - Graduate Placement Director, 2012-2014
+ - Executive Committee, 2011-2013
+ - Diversity Committee, 2011-2012
 
 
 
