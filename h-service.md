@@ -16,6 +16,7 @@ order: 9
 
 
 ## Service to the College and University, Texas A&M
+ - Faculty Advisory Committee, College of Arts and Sciences, 2023-2025
  - Associate Director, [Center of Digital Humanities Research](http://codhr.dh.tamu.edu/), 2015-2023
  - Co-Convener, Religion and Culture Working Group, Glasscock Center, 2014-2015
  - Co-Convener, Religion and Culture Working Group, Glasscock Center, 2012-2013
