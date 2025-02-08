@@ -10,15 +10,15 @@ Co-editor along with Sergey Minov responsible for adapting the keyword list of
 the Comprehensive Bibliography of Syriac Christianity, metadata curation, and data structure. 
 
 
-#### Syriac Manuscripts in the British Library: A New Digital Edition of Wright’s Catalogue (in progress)
+#### Syriac Manuscripts in the British Library: A New Digital Edition of Wright’s Catalogue (forthcoming)
 Lead Technical Editor responsible for [TEI XML schema customiation](https://github.com/srophe/britishLibrary/tree/main/documentation/schema).
 
 
 #### SPEAR: Syriac Persons, Events, and Relations ([beta version](https://spear-prosop.org/index.html))  
 General Editor responsible for adapting the factoid prosopography model to TEI XML 
 (see [article in the Journal of the TEI](https://journals.openedition.org/jtei/3979)), 
-[TEI schema customization](https://github.com/srophe/spear/tree/main/documentation/Schema), training 
-contributing researchers, and editing and data cleaning. 
+[TEI XML schema customiation](https://github.com/srophe/spear/tree/main/documentation/Schema), training 
+contributing researchers, and editing and cleaning data. 
 
 
 #### [The Syriac Gazetteer](http://syriaca.org/geo)
