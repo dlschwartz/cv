@@ -7,27 +7,30 @@ order: 5
 
 #### The Syriac Taxonomy (in progress)  
 Co-editor along with Sergey Minov responsible for adapting the keyword list of 
-the [Comprehensive Bibliography of Syriac Christianity](http://www.csc.org.il/db/browse.aspx?db=SB&sT=keywords), 
-TEI XML encoding, metadata curation, and linking to external taxonomies/ontologies. I expect to release a beta 
-version of this project in 2024. 
+the Comprehensive Bibliography of Syriac Christianity, metadata curation, and data structure. 
 
 
 #### Syriac Manuscripts in the British Library: A New Digital Edition of Wright’s Catalogue (in progress)
-Lead Technical Editor responsible for TEI XML schema customiation.
+Lead Technical Editor responsible for [TEI XML schema customiation](https://github.com/srophe/britishLibrary/tree/main/documentation/schema).
 
 
 #### SPEAR: Syriac Persons, Events, and Relations ([beta version](https://spear-prosop.org/index.html))  
-General Editor responsible for adapting the factoid prosopography model to TEI XML, schema customization, training 
+General Editor responsible for adapting the factoid prosopography model to TEI XML 
+(see [article in the Journal of the TEI](https://journals.openedition.org/jtei/3979)), 
+[TEI schema customization](https://github.com/srophe/spear/tree/main/documentation/Schema), training 
 contributing researchers, and editing and data cleaning. 
 
 
 #### [The Syriac Gazetteer](http://syriaca.org/geo)
-Lead Technical Editor responsible for developing the customized TEI schema used by the Syriac Gazetteer; data cleaning; and 
-project documentation.
+Lead Technical Editor responsible for developing 
+the [TEI XML schema customiation](https://github.com/srophe/syriaca/tree/main/documentation/schemas) used 
+by the Syriac Gazetteer; data cleaning; and project documentation.
 
 
 #### [The Syriac Biographical Dictionary (SBD)](http://syriaca.org/persons)  
-Co-General Editor and Lead Technical Editor responsible for creating new person records, project documentation, TEI XML schema customization.  
+Co-General Editor and Lead Technical Editor responsible for creating new person records, 
+developing the [TEI XML schema customiation](https://github.com/srophe/syriaca/tree/main/documentation/schemas), 
+and project documentation.  
   
   
 #### [Gorgias Encyclopedic Dictionary of the Syriac Heritage: Electronic Edition (eGEDSH)](https://gedsh.bethmardutho.org/)  
