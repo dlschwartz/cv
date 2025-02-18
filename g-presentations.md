@@ -8,7 +8,7 @@ order: 7
 ## Papers Presented at Professional Meetings
  - “Modeling a Born-Digital Factoid Prosopography using the TEI and Linked Data,” with Nathan Gibson and Katayoun Torabi, TEI Conference and Members' Meeting 2021, "Next-Gen TEI," virtual meeting due to COVID-19, October, 2021
  - “Modeling Cultural Heritage Information on the Medieval Middle East,” 2020 LD4 Conference on Linked Data in Libraries, virtual meeting due to COVID-19, 20 July 2020
- - “Syriac Persons, Events, and Relations: A Linked Open Factoid-based Prosopography,” The Association of Digital Humanities Organizations, Utrecht, Netherlands, July 2019, <https://dev.clariah.nl/files/dh2019/boa/0875.html>
+ - “Syriac Persons, Events, and Relations: A Linked Open Factoid-based Prosopography,” The Association of Digital Humanities Organizations, Utrecht, Netherlands, July 2019
  - “Leveraging Core Data for the Cultural Heritage of the Medieval Middle East,” part of the workshop on “Shaping Humanities Data: Use, Reuse, and Paths Toward Computationally Amenable Cultural Heritage Collections,” part of Association of Digital Humanities Organizations 2017, Montréal, Canada, August 2017
  - “SPEAR: Syriac Persons, Events, and Relations,” The International Syriac Symposium, Rome, Italy, August 2016
  - “Linked-Open Data and the Promise of a Syriac Prosopography,” The American Society of Church History/American Historical Association, New York, January 2015
