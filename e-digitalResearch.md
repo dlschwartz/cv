@@ -13,25 +13,25 @@ the Comprehensive Bibliography of Syriac Christianity, metadata curation, and da
 
 #### Syriac Manuscripts in the British Library: A New Digital Edition of Wright’s Catalogue (forthcoming)
 Lead Technical Editor responsible for 
-[TEI XML schema customiation](https://github.com/srophe/britishLibrary/tree/main/documentation/schema).
+[TEI XML schema customization](https://github.com/srophe/britishLibrary/tree/main/documentation/schema).
 
 
 #### SPEAR: Syriac Persons, Events, and Relations ([beta version](https://spear-prosop.org/index.html))  
 General Editor responsible for adapting the factoid prosopography model to TEI XML 
 (see [article in the Journal of the TEI](https://journals.openedition.org/jtei/3979)), 
-[TEI XML schema customiation](https://github.com/srophe/spear/tree/main/documentation/Schema), training 
+[TEI XML schema customization](https://github.com/srophe/spear/tree/main/documentation/Schema), training 
 contributing researchers, and editing and cleaning data. 
 
 
 #### [The Syriac Gazetteer](http://syriaca.org/geo)
 Lead Technical Editor responsible for developing 
-the [TEI XML schema customiation](https://github.com/srophe/syriaca/tree/main/documentation/schemas) used 
+the [TEI XML schema customization](https://github.com/srophe/syriaca/tree/main/documentation/schemas) used 
 by the Syriac Gazetteer; data cleaning; and project documentation.
 
 
 #### [The Syriac Biographical Dictionary (SBD)](http://syriaca.org/persons)  
 Co-General Editor and Lead Technical Editor responsible for creating new person records, 
-developing the [TEI XML schema customiation](https://github.com/srophe/syriaca/tree/main/documentation/schemas), 
+developing the [TEI XML schema customization](https://github.com/srophe/syriaca/tree/main/documentation/schemas), 
 and project documentation.  
   
   
