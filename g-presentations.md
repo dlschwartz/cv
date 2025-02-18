@@ -21,6 +21,10 @@ order: 7
  - “Liturgy and Christian Paideia in Theodore of Mopsuestia’s Catechetical Homilies,” Byzantine Studies Conference, University of Georgia, Athens, October 2005
 
 
+## Conference Panel Participant
+ - "What Is (Late Antique) Digital Prosopography?," Connecting Late Antiquities Conference, Bonn, Germany, February 2025
+ 
+
 ## Invited Talks
  - “Syriac Prosopography in the Digital Age,” Workshop on Late Antiquity, University of Texas, Austin, March 2023
  - “Digital Resources for the Study of Late Antiquity,” Workshop on Late Antiquity, University of Texas, Austin, March 2023
