@@ -5,10 +5,10 @@ permalink: /digitalResearch/
 order: 5
 ---
 
-#### The Syriac Taxonomy (in progress)  
+#### The Syriac Taxonomy ([beta version](https://raw.githubusercontent.com/srophe/syriaca-data/refs/heads/development/data/taxonomy/taxonomy.rdf))  
 Co-editor along with Sergey Minov; responsible for adapting the keyword list of 
 the Comprehensive Bibliography of Syriac Christianity, metadata curation, and data structure. 
-[Beta version](https://raw.githubusercontent.com/srophe/syriaca-data/refs/heads/development/data/taxonomy/taxonomy.rdf)
+
 
 
 #### Syriac Manuscripts in the British Library: A New Digital Edition of Wright’s Catalogue (forthcoming)
