@@ -5,6 +5,21 @@ permalink: /digitalResearch/
 order: 5
 ---
 
+#### [Syriaca.org](http://syriaca.org)
+Since 2015, I have served as the Director of Syriaca.org, a collaborative linked open data project in the field of Syriac Studies.
+
+
+#### The Gaddel App (Srophé Software, 2024-present)
+The Gaddel App is an open source application for TEI XML and RDF-based digital humanities and digital cultural heritage projects. 
+Codebase: [https://github.com/srophe/gaddel](https://github.com/srophe/gaddel).
+
+
+#### [The Srophé App](https://srophe.app/) (Srophé Software, 2014-2024)
+The Srophé App is an open source customization of eXist-DB for TEI XML-based projects focused on digital humanities and 
+digital cultural heritage. The application is now used by more than 10 different digital humanities projects.
+Codebase: [https://github.com/srophe/srophe](https://github.com/srophe/srophe).
+
+
 #### The Syriac Taxonomy ([beta version](https://d2iy9xuv4su69v.cloudfront.net/taxonomy/index.html))([RDF](https://raw.githubusercontent.com/srophe/syriaca-data/refs/heads/development/data/taxonomy/taxonomy.rdf))  
 Co-editor along with Sergey Minov; responsible for adapting the keyword list of 
 the Comprehensive Bibliography of Syriac Christianity, metadata curation, and data structure. 
@@ -17,7 +32,7 @@ Lead Technical Editor responsible for
 
 #### SPEAR: Syriac Persons, Events, and Relations ([forthcoming](https://d2iy9xuv4su69v.cloudfront.net/spear/index.html))  
 General Editor responsible for adapting the factoid prosopography model to TEI XML 
-(see [article in the Journal of the TEI](https://journals.openedition.org/jtei/3979)), 
+(on data model, see [article in the Journal of the TEI](https://journals.openedition.org/jtei/3979)), 
 [TEI XML schema customization](https://github.com/srophe/spear/tree/main/documentation/Schema), training 
 contributing researchers, and editing and cleaning data. 
 
