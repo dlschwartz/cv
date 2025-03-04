@@ -41,7 +41,7 @@ Daniel L. Schwartz, General Editor. Status: Forthcoming April 2025.
 - Responsible for adapting the factoid prosopography model to TEI XML 
 (on data model, see [article in the Journal of the TEI](https://journals.openedition.org/jtei/3979)), 
 [TEI XML schema customization](https://github.com/srophe/spear/tree/main/documentation/Schema), encoding data, training 
-contributing researchers, and editing and cleaning data, and rendering TEI data into RDF.
+contributing researchers, editing and cleaning data, and rendering TEI data into RDF.
 
 #### The Syriac Gazetteer
 William L. Potter and David A. Michelson, eds., Daniel L. Schwartz, assoc. ed. 
@@ -49,7 +49,7 @@ Daniel L. Schwartz, technical editor. Link: [http://syriaca.org/geo](http://syri
 Status: Published 2014 (with Thomas A Carlson serving as co-editor), revised 2019.
 
 - Responsible for developing the [TEI XML schema customization](https://github.com/srophe/syriaca/tree/main/documentation/schemas) used 
-by the Syriac Gazetteer and for rendering TEI data into RDF.
+by the Syriac Gazetteer and rendering TEI data into RDF.
 
 
 #### The Syriac Biographical Dictionary (SBD)  
