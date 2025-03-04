@@ -9,7 +9,7 @@ order: 5
 
 #### Syriaca.org The Syriac Reference Portal
 Since 2015, I have served as the Director of Syriaca.org, a collaborative linked open data project in the field of Syriac Studies.
-Link: [http://syriaca.org](http://syriaca.org)
+Link: [http://syriaca.org](http://syriaca.org).
 
 #### The Gaddel App 
 Winona Salesky, David A. Michelson, Daniel Schwartz, Jeanne-Nicole Mellon-Saint Lauren, and William L Potter, developers. 
@@ -28,8 +28,7 @@ About: [https://srophe.app/](https://srophe.app/). Codebase: [https://github.com
 #### The Syriac Taxonomy
 Sergey Minov and Daniel L. Schwartz, eds. Responsible for adapting and expanding the keyword list of 
 the Comprehensive Bibliography of Syriac Christianity, metadata curation, and data structure. 
-Link: [https://d2iy9xuv4su69v.cloudfront.net/taxonomy/index.html](https://d2iy9xuv4su69v.cloudfront.net/taxonomy/index.html). 
-RDF version:[https://raw.githubusercontent.com/srophe/syriaca-data/refs/heads/development/data/taxonomy/taxonomy.rdf](https://raw.githubusercontent.com/srophe/syriaca-data/refs/heads/development/data/taxonomy/taxonomy.rdf))
+Link: [Beta version](https://d2iy9xuv4su69v.cloudfront.net/taxonomy/index.html); [RDF version](https://raw.githubusercontent.com/srophe/syriaca-data/refs/heads/development/data/taxonomy/taxonomy.rdf))
 Status: Beta release.
 
 
