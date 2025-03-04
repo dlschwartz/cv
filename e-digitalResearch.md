@@ -32,7 +32,7 @@ Status: Beta release.
 
 - Responsible for adapting and expanding the keyword list of 
 the Comprehensive Bibliography of Syriac Christianity, organizing the concepts into a taxonomy according to the 
-SKOS (Simple Knowledge Organization System) vocabulary, and metadata curation.
+SKOS (Simple Knowledge Organization System) vocabulary, and curating metadata.
 
 
 #### SPEAR: Syriac Persons, Events, and Relations
