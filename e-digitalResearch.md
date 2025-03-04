@@ -15,7 +15,7 @@ Lead Technical Editor responsible for
 [TEI XML schema customization](https://github.com/srophe/britishLibrary/tree/main/documentation/schema).
 
 
-#### SPEAR: Syriac Persons, Events, and Relations ([forthcoming](https://spear-prosop.org/index.htmlhttps://d2iy9xuv4su69v.cloudfront.net/spear/index.html))  
+#### SPEAR: Syriac Persons, Events, and Relations ([forthcoming](https://d2iy9xuv4su69v.cloudfront.net/spear/index.html))  
 General Editor responsible for adapting the factoid prosopography model to TEI XML 
 (see [article in the Journal of the TEI](https://journals.openedition.org/jtei/3979)), 
 [TEI XML schema customization](https://github.com/srophe/spear/tree/main/documentation/Schema), training 
