@@ -30,14 +30,14 @@ Sergey Minov and Daniel L. Schwartz, eds. Link: [Beta version](https://d2iy9xuv4
 [RDF version](https://raw.githubusercontent.com/srophe/syriaca-data/refs/heads/development/data/taxonomy/taxonomy.rdf).
 Status: Beta release.
 
-Responsible for adapting and expanding the keyword list of 
+- Responsible for adapting and expanding the keyword list of 
 the Comprehensive Bibliography of Syriac Christianity, metadata curation, and data structure.
 
 
 #### SPEAR: Syriac Persons, Events, and Relations
 Daniel L. Schwartz, General Editor. Status: Forthcoming April 2025.
 
-Responsible for adapting the factoid prosopography model to TEI XML 
+- Responsible for adapting the factoid prosopography model to TEI XML 
 (on data model, see [article in the Journal of the TEI](https://journals.openedition.org/jtei/3979)), 
 [TEI XML schema customization](https://github.com/srophe/spear/tree/main/documentation/Schema), encoding data, training 
 contributing researchers, and editing and cleaning data.
@@ -47,15 +47,16 @@ William L. Potter and David A. Michelson, eds., Daniel L. Schwartz, assoc. ed.
 Daniel L. Schwartz, technical editor. Link: [http://syriaca.org/geo](http://syriaca.org/geo). 
 Status: Published 2014 (with Thomas A Carlson serving as co-editor), revised 2019.
 
-Responsible for developing the [TEI XML schema customization](https://github.com/srophe/syriaca/tree/main/documentation/schemas) used 
+- Responsible for developing the [TEI XML schema customization](https://github.com/srophe/syriaca/tree/main/documentation/schemas) used 
 by the Syriac Gazetteer.
 
 
 #### The Syriac Biographical Dictionary (SBD)  
 David A. Michelson, Jeanne-Nicole Mellon Saint-Laurent, Nathan P. Gibson, and Daniel L. Schwartz, eds. Daniel L. Schwartz,
-technical editor. Link: [http://syriaca.org/persons](http://syriaca.org/persons). Responsible for developing 
-the [TEI XML schema customization](https://github.com/srophe/syriaca/tree/main/documentation/schemas) used 
-by SBD. Status: Published 2014, revised 2019.
+technical editor. Link: [http://syriaca.org/persons](http://syriaca.org/persons). Status: Published 2014, revised 2019.
+
+- Responsible for developing the [TEI XML schema customization](https://github.com/srophe/syriaca/tree/main/documentation/schemas) used 
+by SBD.
 
   
 ### Digital Humanities Scholarship (Technical Editor)
@@ -65,7 +66,7 @@ by SBD. Status: Published 2014, revised 2019.
 David A. Michelson and William L. Potter, eds. Daniel L. Schwartz, technical editor. 
 Link: [https://bl.syriac.uk/index.html](https://bl.syriac.uk/index.html). Status: Beta public release.
 
-Responsible for [TEI XML schema customization](https://github.com/srophe/britishLibrary/tree/main/documentation/schema).
+- Responsible for [TEI XML schema customization](https://github.com/srophe/britishLibrary/tree/main/documentation/schema).
 
 
 #### Digital Syriac Corpus
@@ -73,7 +74,7 @@ General editor: James Walters. Editorial board: David G.K. Taylor, Aaron Butts, 
 Kristian S. Heal, George A. Kiraz, David A. Michelson, Daniel L. Schwartz, Dorothea Weltecke. 
 Link: [https://syriaccorpus.org/](https://syriaccorpus.org/). Published 2018. 
 
-Responsible for advising on the development of the data model and the integration of Syriaca.org metadata.
+- Responsible for advising on the development of the data model and the integration of Syriaca.org metadata.
 
 
 #### Gorgias Encyclopedic Dictionary of the Syriac Heritage: Electronic Edition (eGEDSH)
@@ -81,7 +82,7 @@ Print edition editors: Sebastian Brock, George A. Kiraz, Lucas Van Rompay, and A
 edition David A. Michelson, Ute Possekel, Daniel L. Schwartz. 
 Link: [https://gedsh.bethmardutho.org/](https://gedsh.bethmardutho.org/). Published 2018.
 
-Responsibile for the conversion of the print edition into electronic format, integrating linked open data into the electronic 
+- Responsibile for the conversion of the print edition into electronic format, integrating linked open data into the electronic 
 version, TEI XML encoding of the front and back matter, and supervising the overall design of the user interface 
 and database for the electronic edition.
 
