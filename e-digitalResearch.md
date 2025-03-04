@@ -21,7 +21,7 @@ Codebase: [https://github.com/srophe/srophe](https://github.com/srophe/srophe).
 
 
 #### ([The Syriac Taxonomy](https://d2iy9xuv4su69v.cloudfront.net/taxonomy/index.html))([RDF](https://raw.githubusercontent.com/srophe/syriaca-data/refs/heads/development/data/taxonomy/taxonomy.rdf))  (beta release)
-Co-editor along with Sergey Minov; responsible for adapting the keyword list of 
+Co-editor along with Sergey Minov; responsible for adapting and expanding the keyword list of 
 the Comprehensive Bibliography of Syriac Christianity, metadata curation, and data structure. 
 
 
