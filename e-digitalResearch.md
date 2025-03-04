@@ -26,10 +26,13 @@ About: [https://srophe.app/](https://srophe.app/). Codebase: [https://github.com
 
 
 #### The Syriac Taxonomy
-Sergey Minov and Daniel L. Schwartz, eds. Responsible for adapting and expanding the keyword list of 
-the Comprehensive Bibliography of Syriac Christianity, metadata curation, and data structure. 
-Link: [Beta version](https://d2iy9xuv4su69v.cloudfront.net/taxonomy/index.html); [RDF version](https://raw.githubusercontent.com/srophe/syriaca-data/refs/heads/development/data/taxonomy/taxonomy.rdf).
+Sergey Minov and Daniel L. Schwartz, eds.  
+Link: [Beta version](https://d2iy9xuv4su69v.cloudfront.net/taxonomy/index.html); 
+[RDF version](https://raw.githubusercontent.com/srophe/syriaca-data/refs/heads/development/data/taxonomy/taxonomy.rdf).
 Status: Beta release.
+
+Responsible for adapting and expanding the keyword list of 
+the Comprehensive Bibliography of Syriac Christianity, metadata curation, and data structure.
 
 
 #### SPEAR: Syriac Persons, Events, and Relations
