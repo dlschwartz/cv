@@ -57,7 +57,7 @@ David A. Michelson, Jeanne-Nicole Mellon Saint-Laurent, Nathan P. Gibson, and Da
 technical editor. Link: [http://syriaca.org/persons](http://syriaca.org/persons). Status: Published 2014, revised 2019.
 
 - Responsible for developing the [TEI XML schema customization](https://github.com/srophe/syriaca/tree/main/documentation/schemas) used 
-by SBD.
+by SBD and rendering TEI data into RDF.
 
   
 ### Digital Humanities Scholarship (Technical Editor)
