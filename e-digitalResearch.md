@@ -5,10 +5,9 @@ permalink: /digitalResearch/
 order: 5
 ---
 
-#### The Syriac Taxonomy ([beta version](https://raw.githubusercontent.com/srophe/syriaca-data/refs/heads/development/data/taxonomy/taxonomy.rdf))  
+#### The Syriac Taxonomy ([beta version](https://d2iy9xuv4su69v.cloudfront.net/taxonomy/index.html))([RDF](https://raw.githubusercontent.com/srophe/syriaca-data/refs/heads/development/data/taxonomy/taxonomy.rdf))  
 Co-editor along with Sergey Minov; responsible for adapting the keyword list of 
 the Comprehensive Bibliography of Syriac Christianity, metadata curation, and data structure. 
-
 
 
 #### Syriac Manuscripts in the British Library: A New Digital Edition of Wright’s Catalogue (forthcoming)
@@ -16,7 +15,7 @@ Lead Technical Editor responsible for
 [TEI XML schema customization](https://github.com/srophe/britishLibrary/tree/main/documentation/schema).
 
 
-#### SPEAR: Syriac Persons, Events, and Relations ([beta version](https://spear-prosop.org/index.html))  
+#### SPEAR: Syriac Persons, Events, and Relations ([forthcoming](https://spear-prosop.org/index.htmlhttps://d2iy9xuv4su69v.cloudfront.net/spear/index.html))  
 General Editor responsible for adapting the factoid prosopography model to TEI XML 
 (see [article in the Journal of the TEI](https://journals.openedition.org/jtei/3979)), 
 [TEI XML schema customization](https://github.com/srophe/spear/tree/main/documentation/Schema), training 
