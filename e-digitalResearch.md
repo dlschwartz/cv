@@ -24,9 +24,11 @@ digital cultural heritage. The application is now used by more than 10 different
 Codebase: [https://github.com/srophe/srophe](https://github.com/srophe/srophe).
 
 
-#### [The Syriac Taxonomy](https://d2iy9xuv4su69v.cloudfront.net/taxonomy/index.html) ([RDF](https://raw.githubusercontent.com/srophe/syriaca-data/refs/heads/development/data/taxonomy/taxonomy.rdf))  
+#### [The Syriac Taxonomy](https://d2iy9xuv4su69v.cloudfront.net/taxonomy/index.html)   
 Sergey Minov and Daniel L. Schwartz, eds. Responsible for adapting and expanding the keyword list of 
-the Comprehensive Bibliography of Syriac Christianity, metadata curation, and data structure. Status: Beta release.
+the Comprehensive Bibliography of Syriac Christianity, metadata curation, and data structure. 
+([RDF version](https://raw.githubusercontent.com/srophe/syriaca-data/refs/heads/development/data/taxonomy/taxonomy.rdf))
+Status: Beta release.
 
 
 #### [SPEAR: Syriac Persons, Events, and Relations](https://d2iy9xuv4su69v.cloudfront.net/spear/index.html)
