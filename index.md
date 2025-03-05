@@ -25,7 +25,7 @@ in English translation. These TEI encoded texts will be integrated into the Syri
 the markup of persons, places, works, and keyword concepts.
 
 I am also the author of 
-_[Paideia and Cult: Christian Initiation in Theodore of Mopsuestia](https://chs.harvard.edu/CHS/article/display/5813.daniel-l-schwartz-paideia-and-cult-christian-initiation-in-theodore-of-mopsuestia)_ 
+_[Paideia and Cult: Christian Initiation in Theodore of Mopsuestia](https://chs.harvard.edu/chapter/acknowledgments-24/)_ 
 and the co-editor (with Arietta Papaconstantinou and Neil McLynn) of _Conversion in Late Antiquity: Christianity, Islam, and Beyond_. 
 I have published articles and book chapters on Digital History, religious conversion, and religious violence in Late Antiquity.
 
