@@ -17,12 +17,17 @@ Winona Salesky, David A. Michelson, Daniel Schwartz, Jeanne-Nicole Mellon-Saint 
 The Gaddel App is an open source application for TEI XML and RDF-based digital humanities and digital cultural heritage projects. 
 Codebase: [https://github.com/srophe/gaddel](https://github.com/srophe/gaddel).
 
+- This software app is a collaborative project developed with funding from my 2023-2026 NEH grant.
+
 
 #### The Srophé App
 Winona Salesky and David A. Michelson, and Daniel L. Schwartz, developers. (Srophé Software, 2014-2024) 
 The Srophé App is an open source customization of eXist-DB for TEI XML-based projects focused on digital humanities and 
 digital cultural heritage. The application is now used by more than 10 different digital humanities projects.
 About: [https://srophe.app/](https://srophe.app/). Codebase: [https://github.com/srophe/srophe](https://github.com/srophe/srophe).
+
+- The development of this software app began under Syriaca.org's first NEH grant (PI: David A. Michaelson) and continued under
+the project's second and third NEH grants on which I served as PI.
 
 
 #### The Syriac Taxonomy
@@ -56,7 +61,7 @@ developing the [TEI XML schema customization](https://github.com/srophe/syriaca/
 by SBD, and rendering TEI data into RDF.
 
 
-  #### The Syriac Gazetteer
+#### The Syriac Gazetteer
 William L. Potter and David A. Michelson, eds., Daniel L. Schwartz, assoc. ed. 
 Daniel L. Schwartz, technical editor. Link: [http://syriaca.org/geo](http://syriaca.org/geo). 
 Status: Published 2014 (with Thomas A Carlson serving as co-editor), revised 2019.
