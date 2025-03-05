@@ -44,7 +44,7 @@ order: 4
  Tübingen: Mohr Siebeck, 2011. <http://hdl.handle.net/1969.1/160480>{:target="_blank"}.
 
 
-## Book ChaptersPublished Conference Proceedings
+## Published Conference Proceedings
  - "Syriaca.Org: New Digital Tools for the Study of the Medieval Middle East." (Co-written with David A. Michelson.) 
  In _Исторический Опыт Мировых Цивилизаций И Россия: Материалы IV Международной Научно-Практической Конференции 13 Ноября 2015_ 
  [_Historical Research in World and Russian Civilizations: Papers of the IV International Conference of Scholars and Practitioners 13 November 2015_], 
