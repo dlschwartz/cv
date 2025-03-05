@@ -15,9 +15,9 @@ literature and culture in the Syriac language. Syriac is a dialect of Aramaic th
 East from the third to the ninth centuries C.E. and continues to be used by communities throughout the Middle 
 East and India today. Dr. Schwartz directs [Syriaca.org](http://syriaca.org), a linked-open data project 
 dedicated to advancing scholarship in the field of Syriac Studies and to preserving Syriac cultural 
-heritage. He is also the general editor of SPEAR: Syriac Persons, Events, and Relations ([beta version](https://spear-prosop.org/index.html)), 
-an online prosopographical research tool; and the co-editor (with Sergey Minov) of the Syriac Taxonomy 
-(forthcoming), a domain ontology for Syriac Studies. He is the author of 
+heritage. He is also the general editor of SPEAR: Syriac Persons, Events, and Relations (forthcoming), 
+an online prosopographical research tool; and the co-editor (with Sergey Minov) of the forthcoming Syriac Taxonomy 
+([Beta release](https://d2iy9xuv4su69v.cloudfront.net/taxonomy/index.html)), a SKOS taxonomy for Syriac Studies. He is the author of 
 _[Paideia and Cult: Christian Initiation in Theodore of Mopsuestia](https://chs.harvard.edu/CHS/article/display/5813.daniel-l-schwartz-paideia-and-cult-christian-initiation-in-theodore-of-mopsuestia)_ 
 and the co-editor (with Arietta Papaconstantinou and Neil McLynn) of _Conversion in Late Antiquity: Christianity, Islam, and Beyond_. 
 He has also published articles and book chapters on Digital History and religious conversion and religious violence in Late Antiquity.
