@@ -36,6 +36,6 @@ TAMU 4236
 College Station, TX 77483-4236  
 
 ---
-#### _[PDF of this Curriculum Vitae](/cv/pdfs/Schwartz_CV_T&P.pdf)_
+#### _[PDF of this Curriculum Vitae](/cv/pdfs/Schwartz_CV.pdf)_
 
   
