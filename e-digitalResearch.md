@@ -37,7 +37,7 @@ Status: Beta release.
 
 - This project is a nearly-1500 item controlled vocabulary of keyword concepts. 
 I am responsible for adapting and expanding the keyword list of 
-the Comprehensive Bibliography of Syriac Christianity, organizing the concepts into a taxonomy according to the 
+the Comprehensive Bibliography of Syriac Christianity, organizing the concepts into a taxonomy according to the standard of the 
 SKOS (Simple Knowledge Organization System) vocabulary, curating metadata on these concepts, and integrating this material
 into the Syriaca.org data graph.
 
