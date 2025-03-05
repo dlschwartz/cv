@@ -27,7 +27,7 @@ digital cultural heritage. The application is now used by more than 10 different
 About: [https://srophe.app/](https://srophe.app/). Codebase: [https://github.com/srophe/srophe](https://github.com/srophe/srophe).
 
 - The development of this software app began under Syriaca.org's first NEH grant (PI: David A. Michaelson) and continued under
-the project's second and third NEH grants on which I served as PI.
+the project's second and third NEH grants with me as the PI.
 
 
 #### The Syriac Taxonomy
