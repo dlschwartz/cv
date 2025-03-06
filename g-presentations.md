@@ -26,6 +26,7 @@ order: 7
  
 
 ## Invited Talks
+ - “Heart-Stretching Landscapes,” Roundtable on Peter Brown's _Journeys of the Mind_, Nashville, TN, April 2024
  - “Syriac Prosopography in the Digital Age,” Workshop on Late Antiquity, University of Texas, Austin, March 2023
  - “Digital Resources for the Study of Late Antiquity,” Workshop on Late Antiquity, University of Texas, Austin, March 2023
  - “From Text to Data and Back Again: Modeling Syriac Heritage with TEI and Linked Data,” Cultural Heritage at Scale: Encoding Cultural Heritage at Scale, Vanderbilt University Libraries, Nashville, Tennessee, May 2019
