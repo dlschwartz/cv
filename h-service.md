@@ -40,6 +40,7 @@ order: 9
  - Hugoye: Journal of Syriac Studies
  - Journal of Early Christian Studies
  - Journal of Near Eastern Studies
+ - Journal of Open Humanities Data
  - Plos One
  - Viator: Medieval and Renaissance Studies
  
