@@ -12,7 +12,7 @@ Since 2015, I have served as the Director of Syriaca.org, a collaborative linked
 Link: [http://syriaca.org](http://syriaca.org).
 
 #### The Gaddel App 
-Winona Salesky, David A. Michelson, Daniel Schwartz, Jeanne-Nicole Mellon-Saint Lauren, and William L Potter, developers. 
+Winona Salesky, David A. Michelson, Daniel L. Schwartz, Jeanne-Nicole Mellon-Saint Laurent, and William L Potter, developers. 
 (Srophé Software, 2024-present)
 The Gaddel App is an open source application for TEI XML and RDF-based digital humanities and digital cultural heritage projects. 
 Codebase: [https://github.com/srophe/gaddel](https://github.com/srophe/gaddel).
@@ -21,7 +21,7 @@ Codebase: [https://github.com/srophe/gaddel](https://github.com/srophe/gaddel).
 
 
 #### The Srophé App
-Winona Salesky and David A. Michelson, and Daniel L. Schwartz, developers. (Srophé Software, 2014-2024) 
+Winona Salesky, David A. Michelson, Daniel L. Schwartz, and Jeanne-Nicole Mellon-Saint Laurent, developers. (Srophé Software, 2014-2024) 
 The Srophé App is an open source customization of eXist-DB for TEI XML-based projects focused on digital humanities and 
 digital cultural heritage. The application is now used by more than 10 different digital humanities projects.
 About: [https://srophe.app/](https://srophe.app/). Codebase: [https://github.com/srophe/srophe](https://github.com/srophe/srophe).
@@ -39,7 +39,7 @@ Status: Beta release.
 I am responsible for adapting and expanding the keyword list of 
 the Comprehensive Bibliography of Syriac Christianity, organizing the concepts into a taxonomy according to the standard of the 
 SKOS (Simple Knowledge Organization System) vocabulary, curating metadata on these concepts, and integrating this material
-into the Syriaca.org data graph.
+into the Syriaca.org knowledge graph.
 
 
 #### SPEAR: Syriac Persons, Events, and Relations
