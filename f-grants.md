@@ -7,7 +7,8 @@ order: 6
 
 ## Nationally Competitive Grants and Fellowships
 - $349,959 from the National Endowment for the Humanities, “Linking Texts and Data from the Medieval Middle East: Next-Generation 
-Discovery and Access Tools for Syriac Cultural Heritage,” PI: Daniel L. Schwartz, 36 month project, 2023-2026.
+Discovery and Access Tools for Syriac Cultural Heritage,” PI: Daniel L. Schwartz, 36 month project, 2023-2026. [Terminated 
+without review in April 2025.]
 - $300,000 from the National Endowment for the Humanities, “Syriaca.org: Advanced Reference Resources for Middle Eastern History,” 
 PI: Daniel L. Schwartz, 28 month project, 2015-2017.
 - $249,711 (sub-contract PI share, $39,498) from the National Endowment for the Humanities, “The Syriac Reference Portal: 
