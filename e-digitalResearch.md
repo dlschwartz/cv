@@ -5,98 +5,66 @@ permalink: /digitalResearch/
 order: 5
 ---
 
-### Digital Humanities Scholarship (Editor, Co-Editor, or Co-Developer)
+### Digital Humanities Scholarship
 
-#### Syriaca.org The Syriac Reference Portal
-Since 2015, I have served as the Director of Syriaca.org, a collaborative linked open data project in the field of Syriac Studies.
-Link: [http://syriaca.org](http://syriaca.org).
+#### Software Applications
 
-#### The Gaddel App 
-Winona Salesky, David A. Michelson, Daniel L. Schwartz, Jeanne-Nicole Mellon-Saint Laurent, and William L Potter, developers, 
-(Srophé Software, 2024-present).
-The Gaddel App is an open source application for TEI XML and RDF-based digital humanities and digital cultural heritage projects. 
-Codebase: [https://github.com/srophe/gaddel](https://github.com/srophe/gaddel).
-
-- This software app is a collaborative project developed with funding from my 2023-2026 NEH grant.
+Geier, Erin, David A. Michelson, William L. Potter, Jeanne-Nicole Mellon Saint-Laurent, Winona Salesky, and Daniel L. Schwartz, developers. _The Gaddel App_. Srophé Software, 2024–present. Status: In development. Codebase: [https://github.com/srophe/Gaddel](https://github.com/srophe/Gaddel). This project is a collaboratively created open source software application designed to support digital publishing and research related to digital cultural heritage. The application is structured around TEI XML and RDF data standards. 
 
 
-#### The Srophé App
-Winona Salesky, David A. Michelson, Daniel L. Schwartz, and Jeanne-Nicole Mellon-Saint Laurent, developers, (Srophé Software, 2014-2024).
-The Srophé App is an open source customization of eXist-DB for TEI XML-based projects focused on digital humanities and 
-digital cultural heritage. The application is now used by more than 10 different digital humanities projects.
-About: [https://srophe.app/](https://srophe.app/). Codebase: [https://github.com/srophe/srophe](https://github.com/srophe/srophe).
+Michelson, David A., William L. Potter, Winona Salesky, Jeanne-Nicole Mellon Saint-Laurent, and Daniel L. Schwartz, developers. _The Srophé App_. Srophé Software, 2014–2024. [https://srophe.app/](https://srophe.app/). Status: Development Complete. Codebase: [https://github.com/srophe/srophe](https://github.com/srophe/srophe). This project is a collaboratively created open source software application designed to support digital publishing and research related to digital cultural heritage. The application is an open source adaptation of the eXist-db framework customized for TEI XML data. The application has been adopted and further customized for use by more than 10 different digital humanities projects. 
 
-- The development of this software app began under Syriaca.org's first NEH grant (PI: David A. Michaelson) and continued under
-the project's second and third NEH grants with me as the PI.
+#### Digital Humanities Scholarship (Editor, Co-Editor, or Co-Developer)
 
+Schwartz, Daniel L., general editor. Syriac Translation Corpus. Syriaca.org, n.d. Status: In development. The Syriac Translation Corpus is in the early stages of development. It will eventually publish open source and public domain translations of Syriac texts. These texts will be marked up with Syriaca.org URIs for persons, places, works, and taxonomy concepts; thus integrating them into the Syriaca.org knowledge graph. There are currently 700 texts in development including letters, sermons, biblical commentaries, saints’ lives, chronicles, histories, theology, etc.
 
-#### The Syriac Taxonomy
-Sergey Minov and Daniel L. Schwartz, eds. Link: [Beta version](https://d2iy9xuv4su69v.cloudfront.net/taxonomy/index.html); 
-[RDF version](https://raw.githubusercontent.com/srophe/syriaca-data/refs/heads/development/data/taxonomy/taxonomy.rdf).
-Status: Beta release.
+Michelson, David A., William L. Potter, Jeanne-Nicole Mellon Saint-Laurent, and Daniel L. Schwartz, general editors. _Syriaca.Nexus: Linked Open Data for Syriac Studies_. Syriaca.org, forthcoming 2025. Status: In development. Beta SPARQL Endpoint: [https://5j6diw4i0h.execute-api.us-east-1.amazonaws.com/sparql](https://5j6diw4i0h.execute-api.us-east-1.amazonaws.com/sparql). This project is an open-access data repository and SPARQL endpoint for Linked Open Data relevant to Syriac studies. This repository (an RDF triple store managed using the Neptune graph database) will contain an RDF serialization of all Syriaca.org data as well as data from Syriaca.org collaborator projects.
 
-- This project is a nearly-1500 item controlled vocabulary of keyword concepts. 
-I am responsible for adapting and expanding the keyword list of 
-the Comprehensive Bibliography of Syriac Christianity, organizing the concepts into a taxonomy according to the standards of the 
-SKOS (Simple Knowledge Organization System) vocabulary, curating metadata on these concepts, and integrating this material
-into the Syriaca.org knowledge graph.
+Minov, Sergey, and Daniel L. Schwartz, general editors; David A. Michelson, William L. Potter, and Daniel L. Schwartz, technical editors. _The Syriac Taxonomy_. Syriaca.org, n.d. Status: In development. [https://dev.syriaca.org/taxonomy/index.html](https://dev.syriaca.org/taxonomy/index.html). Data: [https://github.com/srophe/syriaca-data/tree/gaddel_development/data/taxonomy](https://github.com/srophe/syriaca-data/tree/gaddel_development/data/taxonomy). This project is a taxonomy of subject headings related to Syriac studies which will be published by Syriaca.org. New entries are being regularly added to this online reference work. It currently contains 1,463 subject headings relevant to the study of Syriac.
 
 
-#### SPEAR: Syriac Persons, Events, and Relations
-Daniel L. Schwartz, General Editor. Status: Forthcoming April 2025.
+Michelson, David A., general editor; Daniel L. Schwartz, director; Jeanne-Nicole Mellon Saint-Laurent, associate director; Nathan Gibson, William L. Potter, and James E. Walters, editors; Erin Geier and Winona Salesky, senior programmers. _Syriaca.org: The Syriac Reference Portal_. Founded 2012, online publication 2014-2025. Information: [https://syriaca.org/project-team.html](https://syriaca.org/project-team.html). Status: Ongoing development. Codebase: [https://github.com/srophe/syriaca](https://github.com/srophe/syriaca). Data: [https://github.com/srophe/syriaca-data](https://github.com/srophe/syriaca-data). Syriaca.org: The Syriac Reference Portal is a digital project for the study of Syriac literature, culture, and history. Syriaca.org’s publications compile and classify core data for the study of Syriac sources, offer the scholarly community digital tools for freely disseminating that data, and facilitate further research through the creation of shared digital tools and infrastructure.
 
-- SPEAR contains over 4500 prosopographical factoids, discrete pieces of prosographical material
-integrated into a data graph. I am responsible for adapting the factoid prosopography model to TEI XML 
-(on data model, see [article in the Journal of the TEI](https://journals.openedition.org/jtei/3979)), developing a
-[TEI XML schema customization](https://github.com/srophe/spear/tree/main/documentation/Schema), encoding data, training 
-contributing researchers, editing and cleaning data, and rendering TEI data into RDF.
+Schwartz, Daniel L., general editor; David A. Michelson and Daniel L. Schwartz, technical editors. _SPEAR: Syriac Persons Events and Relations_. Syriaca.org, 2017-2025. Status: Initial release in Srophé App 2017, current beta public release in Gaddel, 2025. [https://spear-prosop.org](https://spear-prosop.org). Codebase: [https://github.com/srophe/spear](https://github.com/srophe/spear). Data: [https://github.com/srophe/spear-data](https://github.com/srophe/spear-data). Information: [https://spear-prosop.org/documentation/schema/SPEAR.html](https://spear-prosop.org/documentation/schema/SPEAR.html). This project is a prosopographical database providing information about persons and their relationships within the context of historical events. New entries are being regularly added to this online reference work. It currently contains 4645 prosopographical “factoids” relevant to the field of Syriac studies.
 
+Michelson, David A., William L. Potter, and Daniel L. Schwartz, general editors. _The Syriac Gazetteer_. Syriaca.org, 2014-2025,  http://syriaca.org/geo. Status: First edition 2014, second edition in 2019. Status: Ongoing publication. Codebase: [https://github.com/srophe/syriaca](https://github.com/srophe/syriaca). Data: [https://github.com/srophe/syriaca-data/tree/master/data/places/tei](https://github.com/srophe/syriaca-data/tree/master/data/places/tei). This project is a multi-volume name and geographic authority file published by Syriaca.org. New entries are being regularly added to this online reference work. It currently has 3,030 records documenting places relevant to the field of Syriac studies.
 
-#### The Syriac Biographical Dictionary (SBD)  
-David A. Michelson, Jeanne-Nicole Mellon Saint-Laurent, Nathan P. Gibson, and Daniel L. Schwartz, eds. Daniel L. Schwartz,
-technical editor. Link: [http://syriaca.org/persons](http://syriaca.org/persons). Status: Published 2014, revised 2019.
-
-- SBD contains over 3000 authority files on people relevant to the Syriac tradition. I am responsible for creating over 800 authority files, 
-developing the [TEI XML schema customization](https://github.com/srophe/syriaca/tree/main/documentation/schemas) used 
-by SBD, and rendering TEI data into RDF.
+Gibson, Nathan P., David A. Michelson, Jeanne-Nicole Mellon Saint-Laurent, and Daniel L. Schwartz, general editors; Daniel L. Schwartz and William L. Potter, technical editors. _The Syriac Biographical Dictionary_. Syriaca.org: The Syriac Reference Portal, 2016–2025. Status: Ongoing publication. http://syriaca.org/persons. Codebase: [https://github.com/srophe/syriaca](https://github.com/srophe/syriaca). Data: [https://github.com/srophe/syriaca-data/tree/master/data/persons/tei](https://github.com/srophe/syriaca-data/tree/master/data/persons/tei). This project is a multi-volume name and biographic authority file. New entries are being regularly added to this online reference work. It currently has 3,029 records documenting persons relevant to the field of Syriac studies.
 
 
-#### The Syriac Gazetteer
-William L. Potter and David A. Michelson, eds., Daniel L. Schwartz, assoc. ed. 
-Daniel L. Schwartz, technical editor. Link: [http://syriaca.org/geo](http://syriaca.org/geo). 
-Status: Published 2014 (with Thomas A Carlson serving as co-editor), revised 2019.
+#### Digital Humanities Scholarship (Technical Editor)
 
-- The Syriac Gazetteer contains over 3000 authority files relevant to the Syriac tradition. I am responsible for creating over 300 authority files,
-developing the [TEI XML schema customization](https://github.com/srophe/syriaca/tree/main/documentation/schemas) used 
-by the Syriac Gazetteer, and rendering TEI data into RDF.
+Minov, Sergey, general editor; David A. Michelson, William L. Potter, Jeanne-Nicole Mellon Saint-Laurent, and Daniel L. Schwartz, technical editors. _The Comprehensive Bibliography on Syriac Studies_. Syriaca.org, forthcoming 2025. Status: In development. [https://dev.syriaca.org/cbss/index.html](https://dev.syriaca.org/cbss/index.html). Codebase: [https://github.com/srophe/syriaca](https://github.com/srophe/syriaca). Data: [https://github.com/srophe/syriaca-data/tree/gaddel_development/data/bibl/tei](https://github.com/srophe/syriaca-data/tree/gaddel_development/data/bibl/tei). Zotero Backend: [https://www.zotero.org/groups/4861694](https://www.zotero.org/groups/4861694). This project is a subject classified bibliography related to Syriac studies which will be published by Syriaca.org. New entries are being regularly added to this online reference work. It currently contains 27,022 citations relevant to the study of Syriac.
+
+Michelson, David A., and William L. Potter, general editors; Daniel L. Schwartz, technical editor. _Syriac Manuscripts in the British Library: A New Digital Edition of Wright’s Catalogue_. Syriaca.org, 2024-2025. [https://bl.syriac.uk](https://bl.syriac.uk). Status: Beta public release, ongoing development. Codebase: [https://github.com/srophe/britishLibrary](https://github.com/srophe/britishLibrary). Data: [https://github.com/srophe/britishLibrary-data](https://github.com/srophe/britishLibrary-data). This project is a digital enhancement of William Wright’s Catalogue of Syriac Manuscripts in the British Museum (London, 1870-72) published in partnership between Syriaca.org and the British Library as an open access online resource. It has 1,207 entries or distinct codicological units (i.e. manuscripts).
+
+Gibson, Nathan P., and David A. Michelson, general editors; Daniel L. Schwartz, technical editor. _A Guide to Syriac Authors_. Vol. 1 of _The Syriac Biographical Dictionary_. Syriaca.org: The Syriac Reference Portal, 2016–2025. Status: Ongoing publication. [http://syriaca.org/authors](http://syriaca.org/authors). Codebase: [https://github.com/srophe/syriaca](https://github.com/srophe/syriaca). Data: [https://github.com/srophe/syriaca-data/tree/master/data/persons/tei](https://github.com/srophe/syriaca-data/tree/master/data/persons/tei). This project is a multi-volume name and biographic authority file. New entries are being regularly added to this online reference work. It currently has 948 records documenting historical authors relevant to the field of Syriac studies. 
+
+Saint-Laurent, Jeanne-Nicole Mellon, and David A. Michelson, general editors; Daniel L. Schwartz, technical editor. _Qadishe: A Guide to the Syriac Saints_. Vol. 2 of _The Syriac Biographical Dictionary_. Syriaca.org: The Syriac Reference Portal, 2016–2025. Status: Ongoing publication. [http://syriaca.org/q](http://syriaca.org/q). Codebase: [https://github.com/srophe/syriaca](https://github.com/srophe/syriaca). Data: [https://github.com/srophe/syriaca-data/tree/master/data/persons/tei](https://github.com/srophe/syriaca-data/tree/master/data/persons/tei). This project is a multi-volume name and biographic authority file. New entries are being regularly added to this online reference work. It currently has 1,153 records documenting persons venerated as saints in the Syriac religious communities. 
+
+Brock, Sebastian, George A. Kiraz, Lucas Van Rompay, and Aaron Butts, editors; David A. Michelson, Ute Possekel, and Daniel L. Schwartz, technical editors. _e-GEDSH: Gorgias Encyclopedic Dictionary of the Syriac Heritage, Electronic Edition_. Beth Mardutho: The Syriac Institute, 2018. Status: Published in 2018. [https://gedsh.bethmardutho.org/index.html](https://gedsh.bethmardutho.org/index.html). Codebase: [https://github.com/srophe/e-gedsh-app](https://github.com/srophe/e-gedsh-app). Data: [https://github.com/srophe/e-gedsh](https://github.com/srophe/e-gedsh). This project is an open-access online encyclopedia. It has 622 entries related to Syriac cultural heritage. 
+
+Roggo, Silvio, general editor; David A. Michelson, William L. Potter, and Daniel L. Schwartz, technical editors. _Prosopography to John of Ephesus’s Ecclesiastical History_. Vol. 3 of _The Syriac Biographical Dictionary_. Syriaca.org: The Syriac Reference Portal, 2016–2025. Status: Forthcoming in 2025. [https://dev.syriaca.org/johnofephesus/persons/index.html](https://dev.syriaca.org/johnofephesus/persons/index.html). Codebase: [https://github.com/srophe/syriaca](https://github.com/srophe/syriaca). Data: [https://github.com/srophe/syriaca-data/tree/gaddel_development/data/persons/tei](https://github.com/srophe/syriaca-data/tree/gaddel_development/data/persons/tei). This project is a name and biographical authority file published by Syriaca.org. New entries are being regularly added to this online reference work. It currently has 250 records documenting persons relevant to the study of the historical figure John of Ephesus. 
+
+Roggo, Silvio, general editor; David A. Michelson, William L. Potter, and Daniel L. Schwartz, technical editors. _A Gazetteer to John of Ephesus_. Vol. 2 of _The Syriac Gazetteer_, edited by David A. Michelson and William L. Potter. Syriaca.org: The Syriac Reference Portal, forthcoming 2025. Status: Forthcoming in 2025. [https://dev.syriaca.org/johnofephesus/places/index.html](https://dev.syriaca.org/johnofephesus/places/index.html). Codebase: [https://github.com/srophe/syriaca](https://github.com/srophe/syriaca). Data: [https://github.com/srophe/syriaca-data/tree/gaddel_development/data/places/tei](https://github.com/srophe/syriaca-data/tree/gaddel_development/data/places/tei). This project is a name and geographic authority file published by Syriaca.org. New entries are being regularly added to this online reference work. It currently has 166 records documenting places relevant to the study of the historical figure John of Ephesus. 
+
+Walters, James E., general editor; Aaron Butts, Muriel Debié, Kristian S. Heal, George A. Kiraz, David A. Michelson, Daniel L. Schwartz, David G.K. Taylor, and Dorothea Weltecke, editors; David A. Michelson, Daniel L. Schwartz, and James E. Walters, technical editors. _Digital Syriac Corpus_. The Digital Lab, Vanderbilt University, 2018–present. Status: Ongoing publication. [https://syriaccorpus.org/](https://syriaccorpus.org/). Codebase: [https://github.com/srophe/syriac-corpus-app](https://github.com/srophe/syriac-corpus-app). Data: [https://github.com/srophe/syriac-corpus](https://github.com/srophe/syriac-corpus). This project is an open-access online corpus of Syriac literature. New entries are being regularly added to this online reference work. It currently has 573 texts. 
+
+#### TEI ODD Schema Customizations
+
+Schwartz, Daniel L. “Encoding Manual and TEI Customization for SPEAR: Syriaca Persons, Events, and Relations” Second Edition. Syriaca.org: The Syriac Reference Portal. 2019-2025. [https://github.com/srophe/spear/blob/main/documentation/Schema/SPEAR.odd](https://github.com/srophe/spear/blob/main/documentation/Schema/SPEAR.odd). HTML: [https://spear-prosop.org/documentation/Schema/SPEAR.html](https://spear-prosop.org/documentation/Schema/SPEAR.html). Prose description of guidelines for encoding SPEAR factoid prosopography data. TEI ODD schema customization that constrains the use of the TEI for encoding factoids and integrating them with the Syriaca.org knowledge graph.
+
+Schwartz, Daniel L. “TEI Customization for the Srophé Application.” Syriaca.org: The Syriac Reference Portal. 2019-2025. [https://github.com/srophe/Gaddel/blob/main/documentation/schemas/srophe.odd](https://github.com/srophe/Gaddel/blob/main/documentation/schemas/srophe.odd). A TEI ODD schema customization for use by any project employing the Srophé Application or the Gaddel Application. This offers a minimal customization of the TEI P5 schema and serves as the first layer of Syriaca.org’s chain of TEI ODD customizations. No project currently uses this layer of the chained ODD for document validation but it is an essential component of Syriaca.org’s documentation and data integrity. 
+
+Schwartz, Daniel L. “TEI Customization for Syriaca.org.” Syriaca.org: The Syriac Reference Portal. 2019-2025. [https://github.com/srophe/Gaddel/blob/main/documentation/schemas/syriacaAll.odd](https://github.com/srophe/Gaddel/blob/main/documentation/schemas/syriacaAll.odd). A TEI ODD schema customization layer for Syriaca.org’s chained ODDs. This ODD uses the “TEI Customization for the Srophé Application” layer as its starting point and customizes it with the portions of the TEI that are common to all Syriaca.org authority file projects. No project currently uses this layer of the chained ODD for validation but it is an essential component of Syriaca.org’s documentation and data integrity. It allows Syriaca.org to maintain the portions of the TEI ODD customization common to all authority file projects in one location. This ODD forms the basis of the other ODDs against which specific publication files are validated.
+
+Schwartz, Daniel L. “TEI Customization for Syriaca.org Persons Data.” Syriaca.org: The Syriac Reference Portal.2019- 2025. [https://github.com/srophe/Gaddel/blob/main/documentation/schemas/syriacaPersons.odd](https://github.com/srophe/Gaddel/blob/main/documentation/schemas/syriacaPersons.odd). A TEI ODD schema customization layer for Syriaca.org’s person data. This ODD uses the “TEI Customization for Syriaca.org” ODD as its starting point and customizes the Syriaca.org schema for validating person data. This ODD allows us to produce the final RelaxNG file against which Syriaca.org validates the XML files in the Syriac Biographical Dictionary.
+
+Schwartz, Daniel L. “TEI Customization for Syriaca.org Place Data.” Syriaca.org: The Syriac Reference Portal. 2019-2025. [https://github.com/srophe/Gaddel/blob/main/documentation/schemas/syriacaPlaces.odd](https://github.com/srophe/Gaddel/blob/main/documentation/schemas/syriacaPlaces.odd). A TEI ODD schema customization layer for Syriaca.org’s place data. This ODD uses the “TEI Customization for Syriaca.org” ODD as its starting point and customizes the Syriaca.org schema for validating places data. This ODD allows us to produce the final RelaxNG file against which Syriaca.org validates the XML files in the The Syriac Gazetteer.
+
+Michelson, David A., William L. Potter, and Daniel L. Schwartz. “Syriac Manuscripts in the British Library: TEI P5 Customization and Encoding Guidelines for Manuscript Description.” Syriaca.org: The Syriac Reference Portal. 2024. [https://github.com/srophe/britishLibrary/blob/main/documentation/schema/Syriacamsdesc.odd](https://github.com/srophe/britishLibrary/blob/main/documentation/schema/Syriacamsdesc.odd). This TEI ODD schema customization constrains the TEI P5 schema for describing manuscript data in “Syriac Manuscripts in the British Library: A New Digital Edition of Wright’s Catalogue.” It is based on those published by the Bodleian Library, Oxford and James Cummings as “TEI P5 Customization and Encoding Guidelines for Manuscript Description,” licenced under CC BY 4.0. In turn, the work of the Bodleian Library, Oxford and James Cummings was based on the medieval manuscript guidelines written by James Freeman and Matthew Holford and encoded by Matthew Holford.
 
 
-### Digital Humanities Scholarship (Technical Editor)
 
-
-#### Syriac Manuscripts in the British Library: A New Digital Edition of Wright’s Catalogue
-David A. Michelson and William L. Potter, eds. Daniel L. Schwartz, technical editor. 
-Link: [https://bl.syriac.uk/index.html](https://bl.syriac.uk/index.html). Status: Beta public release.
-
-- Responsible for developing the [TEI XML schema customization](https://github.com/srophe/britishLibrary/tree/main/documentation/schema)
-used by the project.
-
-
-#### Digital Syriac Corpus
-General editor: James Walters. Editorial board: David G.K. Taylor, Aaron Butts, Muriel Debié, 
-Kristian S. Heal, George A. Kiraz, David A. Michelson, Daniel L. Schwartz, Dorothea Weltecke. 
-Link: [https://syriaccorpus.org/](https://syriaccorpus.org/). Published 2018. 
-
-- Responsible for advising on the development of the data model and the integration of Syriaca.org metadata.
-
-
-#### Gorgias Encyclopedic Dictionary of the Syriac Heritage: Electronic Edition (eGEDSH)
-Print edition editors: Sebastian Brock, George A. Kiraz, Lucas Van Rompay, and Aaron Butts. Technical editors for the digital 
-edition David A. Michelson, Ute Possekel, Daniel L. Schwartz. 
-Link: [https://gedsh.bethmardutho.org/](https://gedsh.bethmardutho.org/). Published 2018.
-
-- Responsibile for the conversion of the print edition into electronic format, integrating linked open data into the electronic 
-version, TEI XML encoding of the front and back matter, and supervising the overall design of the user interface 
-and database for the electronic edition.
 
 [jekyll-organization]: https://github.com/jekyll
