@@ -5,8 +5,6 @@ permalink: /digitalResearch/
 order: 5
 ---
 
-### Digital Humanities Scholarship
-
 #### Software Applications
 
 Geier, Erin, David A. Michelson, William L. Potter, Jeanne-Nicole Mellon Saint-Laurent, Winona Salesky, and Daniel L. Schwartz, developers. _The Gaddel App_. Srophé Software, 2024–present. Status: In development. Codebase: [https://github.com/srophe/Gaddel](https://github.com/srophe/Gaddel). This project is a collaboratively created open source software application designed to support digital publishing and research related to digital cultural heritage. The application is structured around TEI XML and RDF data standards. 
