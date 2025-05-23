@@ -22,9 +22,9 @@ order: 10
 
  - "Sage Against the Machine: Exploring Gen AI as a Tool for Writing Instruction," Texas A&M University, Center of Teaching Excellence, 2025.
  - "Facilitating Learning: An Introduction to the 5 Families of Teaching Strategies," Texas A&M University, Center of Teaching Excellence, 2024.
+ - "Graduate Mentoring Academy," Texas A&M University, 2023-2024.
  - "The New Kid in Class -- ChatGPT," Texas A&M University, Center of Teaching Excellence, 2022.
  - "Maximizing Student Engagement and Learning Using Relationships, Resilience, and Reflection," Texas A&M University, Center of Teaching Excellence, Center of Teaching Excellence, 2022.
- - "Graduate Mentoring Academy," Texas A&M University, 2023-2024.
  - "Faculty Teaching Academy," Texas A&M University, Center of Teaching Excellence, 2011-2012.
 
 
