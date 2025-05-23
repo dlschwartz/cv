@@ -5,15 +5,15 @@ permalink: /education/
 order: 3
 ---
 
-#### Ph.D., History, 2009, Princeton University  
+Ph.D., History, 2009, Princeton University  
 
-#### M.A., History, 2003, Princeton University  
+M.A., History, 2003, Princeton University  
 
-#### Post-Baccalaureate Certificate in Classics, 2001, University of California, Los Angeles  
+Post-Baccalaureate Certificate in Classics, 2001, University of California, Los Angeles  
 
-#### M.A., Christian Thought, 1998, Trinity International University  
+M.A., Christian Thought, 1998, Trinity International University  
 
-#### B.A., Philosophy and Religious Studies, 1995, University of California, Santa Barbara  
+B.A., Philosophy and Religious Studies, 1995, University of California, Santa Barbara  
 
 
 
