@@ -8,7 +8,7 @@ layout: home
 
 ![profile picture](/cv/images/headshot2019.jpg)
 
-## Short Bio
+# Short Bio
 I am an Associate Professor of History. My research lies at the intersection of Roman History, 
 History of Religion, Digital Humanities, and Cultural Heritage Informatics with a particular focus on the 
 literature and culture in the Syriac language. Syriac is a dialect of Aramaic that flourished in the Middle 
