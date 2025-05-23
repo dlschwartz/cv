@@ -19,7 +19,7 @@ I direct [Syriaca.org](http://syriaca.org), a linked-open data project
 dedicated to advancing scholarship in the field of Syriac Studies and to preserving Syriac cultural 
 heritage. I am also the general editor of SPEAR: Syriac Persons, Events, and Relations (forthcoming), 
 an online prosopographical research tool; and the co-editor (with Sergey Minov) of the forthcoming Syriac Taxonomy 
-([Beta release](https://d2iy9xuv4su69v.cloudfront.net/taxonomy/index.html)), a SKOS taxonomy for Syriac Studies. As 
+([Beta release](https://dev.spear-prosop.org/index.html)), a SKOS taxonomy for Syriac Studies. As 
 part of my current NEH-funded work I am producing an OER (Open Educational Resource) corpus of Syriac source material
 in English translation. These TEI encoded texts will be integrated into the Syriaca.org knowledge graph through 
 the markup of persons, places, works, and keyword concepts.
@@ -43,6 +43,9 @@ TAMU 4236
 College Station, TX 77483-4236  
 
 ---
-#### _[PDF of this Curriculum Vitae](/cv/pdfs/Schwartz_CV.pdf)_
+
+## Alternative Format
+
+_[PDF of this CV](/cv/pdfs/Schwartz_CV.pdf)_
 
   
