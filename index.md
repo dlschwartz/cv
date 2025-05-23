@@ -42,8 +42,6 @@ Department of History
 TAMU 4236  
 College Station, TX 77483-4236  
 
----
-
 ## Alternative Format
 
 _[PDF of this CV](/cv/pdfs/Schwartz_CV.pdf)_
