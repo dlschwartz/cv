@@ -9,9 +9,9 @@ order: 4
  - _Paideia and Cult: Christian Initiation in Theodore of Mopsuestia_. Hellenic Studies Series 57. 
  Washington, DC and Cambridge, MA: The Center for Hellenic Studies and Harvard University Press, 2013. 
  Full text freely available as an 
- [ebook](https://chs.harvard.edu/read/schwartz-daniel-l-paideia-and-cult-christian-initiation-in-theodore-of-mopsuestia/){:target="_blank"}
- or as a [webpage](https://chs.harvard.edu/chapter/acknowledgments-24/){:target="_blank"}. [A 
- [Russian translation](https://chs.harvard.edu/book/пайдейя-и-культ-христианская-инициац/){:target="_blank"} of this monograph 
+ [ebook](https://chs.harvard.edu/read/schwartz-daniel-l-paideia-and-cult-christian-initiation-in-theodore-of-mopsuestia/)
+ or as a [webpage](https://chs.harvard.edu/chapter/acknowledgments-24/). [A 
+ [Russian translation](https://chs.harvard.edu/book/пайдейя-и-культ-христианская-инициац/) of this monograph 
  has also been produced. Translation by Z.A. Lurie. Russian introduction by V.K. Pichugina and Z.A. Lurie. Paideia Series. St. Petersburgh: 
  Publishing House of the RKhG, 2023.]
  
