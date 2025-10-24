@@ -1,9 +1,13 @@
 ---
 layout: page
-title: Grants
+title: Awards and Grants
 permalink: /grants/
 order: 6
 ---
+
+## Awards
+- Open Access Award, Texas A&M University Libraries, 2025.
+
 
 ## Nationally Competitive Grants and Fellowships
 - $349,959 from the National Endowment for the Humanities, “Linking Texts and Data from the Medieval Middle East: Next-Generation 
