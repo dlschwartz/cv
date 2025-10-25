@@ -34,7 +34,7 @@ I have published articles and book chapters on Digital History, religious conver
 ## Scholarly IDs
 
 ORCID: [0000-0001-6986-9650](https://orcid.org/0000-0001-6986-9650)  
-[Academia.edu](https://tamu.academia.edu/DanielSchwartz)
+
 
 ## Mail
 
