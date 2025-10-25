@@ -6,8 +6,12 @@ order: 6
 ---
 
 ## Awards
-- Open Access Award, Texas A&M University Libraries, 2025.
+- “Open Access Award,” Texas A&M University Libraries, 2025.
+- “Highly Prestigious Award Recognition,” Faculty Affairs and the College of Arts and
+Sciences, Texas A&M University, 2024.
 
+
+## Grants and Fellowships
 
 ## Nationally Competitive Grants and Fellowships
 - $349,959 from the National Endowment for the Humanities, “Linking Texts and Data from the Medieval Middle East: Next-Generation 
