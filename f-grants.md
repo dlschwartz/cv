@@ -13,7 +13,7 @@ Sciences, Texas A&M University, 2024.
 
 ## Grants and Fellowships
 
-## Nationally Competitive Grants and Fellowships
+### Nationally Competitive Grants and Fellowships
 - $349,959 from the National Endowment for the Humanities, “Linking Texts and Data from the Medieval Middle East: Next-Generation 
 Discovery and Access Tools for Syriac Cultural Heritage,” PI: Daniel L. Schwartz, 36 month project, 2023-2026. [Terminated 
 without review in April 2025.]
@@ -23,7 +23,7 @@ PI: Daniel L. Schwartz, 28 month project, 2015-2017.
 New Access to Sources for the History of the Middle East,” PI: David A. Michelson, Vanderbilt, 36 month project, 2012-2014.
 
 
-## Competitive College and University Grants and Fellowships, Texas A&M University
+### Competitive College and University Grants and Fellowships, Texas A&M University
 - $15,000 from the Arts and Humanities Fellowship Program, 2022-2025.
 - $1,500 from the College of Liberal Arts for International Travel Support, 2019.
 - $1,700 from the Southeastern Conference Visiting Faculty Travel Grant, 2019.
