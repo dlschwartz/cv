@@ -42,6 +42,7 @@ order: 9
  - Journal of Near Eastern Studies
  - Journal of Open Humanities Data
  - Plos One
+ - Studies in Late Antiquity
  - Viator: Medieval and Renaissance Studies
  
 
