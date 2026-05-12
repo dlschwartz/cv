@@ -14,12 +14,14 @@ Sciences, Texas A&M University, 2024.
 ## Grants and Fellowships
 
 ### Nationally Competitive Grants and Fellowships
-- $349,959 from the National Endowment for the Humanities, “Linking Texts and Data from the Medieval Middle East: Next-Generation 
+- $35,000 (sub-contract PI share, $12,000) from the Institute for Classical Christain Studies, "Mayana: Syriac Sources in 
+Translation," PI: David A. Michelson, Vanderbilt, 18 month project, 2026-2027. 
+- $349,959 from National Endowment for the Humanities, “Linking Texts and Data from the Medieval Middle East: Next-Generation 
 Discovery and Access Tools for Syriac Cultural Heritage,” PI: Daniel L. Schwartz, 36 month project, 2023-2026. [Terminated 
 without review in April 2025.]
-- $300,000 from the National Endowment for the Humanities, “Syriaca.org: Advanced Reference Resources for Middle Eastern History,” 
+- $300,000 from National Endowment for the Humanities, “Syriaca.org: Advanced Reference Resources for Middle Eastern History,” 
 PI: Daniel L. Schwartz, 28 month project, 2015-2017.
-- $249,711 (sub-contract PI share, $39,498) from the National Endowment for the Humanities, “The Syriac Reference Portal: 
+- $249,711 (sub-contract PI share, $39,498) from National Endowment for the Humanities, “The Syriac Reference Portal: 
 New Access to Sources for the History of the Middle East,” PI: David A. Michelson, Vanderbilt, 36 month project, 2012-2014.
 
 
