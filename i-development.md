@@ -6,7 +6,6 @@ order: 10
 ---
 
 ## Digital Research
- - "DAM for GLAM and Performing Arts," Continuing and Professional Studies at the School of Communication and Information, Rutgers University, certificate awarded April 2026.
  - "The Future of Research in the Age of AI," American Historical Association, Montana State University, 2025.
  - "Taxonomy Bootcamp," Washington, DC, 2024.
  - "Advanced Digital Editing: Modeling the Text and Making the Edition," NEH Institute for Advanced Topics in the Digital Humanities, University of Pittsburg, 2022.
