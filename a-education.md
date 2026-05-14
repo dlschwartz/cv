@@ -28,9 +28,9 @@ and Oriental Studies, 2004-2005.
 American School of Classical Studies at Athens, Summer Program: Ancient and
 Medieval Turkey, held in Turkey, 2004.
 
-Post-Baccalaureate Certificate in Classics, 2001, University of California, Los Angeles  
+Post-Baccalaureate Certificate in Classics, 2001, University of California, Los Angeles.  
 
-Aestiva Romae Latinitas Reginaldi Foster, Summer Latin Course, Rome, Italy, 1999.
+_Aestiva Romae Latinitas Reginaldi Foster_, Summer Latin Course, Rome, Italy, 1999.
 Instructor: Reginald Foster, O.C.D., Vatican Secretariat of State.
 
 [jekyll-organization]: https://github.com/jekyll
